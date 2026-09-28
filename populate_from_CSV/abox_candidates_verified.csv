@@ -1,0 +1,143 @@
+manufacturer,name,dbpedia_iri,wiki_url,year,top_level_class,sound_generation,synthesis_type,polyphony
+Akai,Akai AX60,http://dbpedia.org/resource/Akai_AX60,http://en.wikipedia.org/wiki/Akai_AX60,1986,Synthesizer,Analog,Subtractive,6
+Akai,Akai AX80,http://dbpedia.org/resource/Akai_AX80,http://en.wikipedia.org/wiki/Akai_AX80,1984,Synthesizer,Analog,Subtractive,8
+Akai,Akai S1000,http://dbpedia.org/resource/Akai_S1000,http://en.wikipedia.org/wiki/Akai_S1000,1988,Sampler,Digital,Sample-based,
+Akai,Akai S3000,http://dbpedia.org/resource/Akai_S3000XL,http://en.wikipedia.org/wiki/Akai_S3000XL,1996,Sampler,Digital,Sample-based,
+Akai,Akai S900,http://dbpedia.org/resource/Akai_S900,http://en.wikipedia.org/wiki/Akai_S900,1986,Sampler,Digital,Sample-based,
+Akai,Akai X7000,http://dbpedia.org/resource/Akai_X7000,http://en.wikipedia.org/wiki/Akai_X7000,1986,Sampler,Digital,Sample-based,
+Alesis,Alesis Andromeda A6,http://dbpedia.org/resource/Alesis_Andromeda_A6,http://en.wikipedia.org/wiki/Alesis_Andromeda_A6,2000,Synthesizer,Analog,Subtractive,16
+Alesis,Alesis Ion,http://dbpedia.org/resource/Alesis_Ion,http://en.wikipedia.org/wiki/Alesis_Ion,2003,Synthesizer,Digital,Subtractive,8
+Alesis,Alesis Micron,,,2003,Synthesizer,Digital,Subtractive,8
+ARP,ARP Quadra,http://dbpedia.org/resource/ARP_Quadra,http://en.wikipedia.org/wiki/ARP_Quadra,1978,Synthesizer,Analog,Subtractive,4
+ARP,ARP Quartet,,,1979,Synthesizer,Analog,Subtractive,49
+ARP,ARP Solina String Synthesizer,http://dbpedia.org/resource/ARP_String_Synthesizer,http://en.wikipedia.org/wiki/ARP_String_Synthesizer,1975,Synthesizer,Analog,Subtractive,49
+Casio,Casio SK-1,http://dbpedia.org/resource/Casio_SK-1,http://en.wikipedia.org/wiki/Casio_SK-1,1985,Synthesizer,Digital,Sample-based,4
+E-mu,E-mu SP-1200,http://dbpedia.org/resource/E-mu_SP-1200,http://en.wikipedia.org/wiki/E-mu_SP-1200,1987,Sampler,Digital,Sample-based,
+Elektron,Elektron SidStation,http://dbpedia.org/resource/Elektron_SidStation,http://en.wikipedia.org/wiki/Elektron_SidStation,1999,Synthesizer,Hybrid,Subtractive,1
+Elka,Elka Synthex,http://dbpedia.org/resource/Elka_Synthex,http://en.wikipedia.org/wiki/Elka_Synthex,1981,Synthesizer,Analog,Subtractive,8
+Ensoniq,Ensoniq ASR-10,http://dbpedia.org/resource/Ensoniq_ASR-10,http://en.wikipedia.org/wiki/Ensoniq_ASR-10,1992,Sampler,Digital,Sample-based,
+Ensoniq,Ensoniq EPS,http://dbpedia.org/resource/Ensoniq_EPS,http://en.wikipedia.org/wiki/Ensoniq_EPS,1988,Sampler,Digital,Sample-based,
+Ensoniq,Ensoniq EPS-16+,,,1988,Sampler,Digital,Sample-based,
+Ensoniq,Ensoniq Fizmo,http://dbpedia.org/resource/Ensoniq_Fizmo,http://en.wikipedia.org/wiki/Ensoniq_Fizmo,1998,Synthesizer,Digital,Wavetable,48
+Ensoniq,Ensoniq Mirage,http://dbpedia.org/resource/Ensoniq_Mirage,http://en.wikipedia.org/wiki/Ensoniq_Mirage,1984,Sampler,Digital,Sample-based,
+Fairlight,Fairlight CMI (Series I - III),http://dbpedia.org/resource/Fairlight_CMI,http://en.wikipedia.org/wiki/Fairlight_CMI,1979,Sampler,Digital,Sample-based,
+Formanta,Formanta Polivoks,http://dbpedia.org/resource/Polivoks,http://en.wikipedia.org/wiki/Polivoks,1982,Synthesizer,Analog,Subtractive,2
+Kawai,Kawai K5000,http://dbpedia.org/resource/Kawai_K5000,http://en.wikipedia.org/wiki/Kawai_K5000,1996,Synthesizer,Digital,Additive,32
+Kawai,Kawai R-100,http://dbpedia.org/resource/Kawai_R-100,http://en.wikipedia.org/wiki/Kawai_R-100,1987,DrumMachine,Digital,Sample-based,
+Kawai,Kawai XD-5,http://dbpedia.org/resource/Kawai_XD-5,http://en.wikipedia.org/wiki/Kawai_XD-5,1989,DrumMachine,Digital,Sample-based,
+Korg,Korg 01/W,http://dbpedia.org/resource/Korg_01/W,http://en.wikipedia.org/wiki/Korg_01/W,1991,Synthesizer,Digital,Sample-based,32
+Korg,Korg DDD-1,http://dbpedia.org/resource/Korg_DDD-1,http://en.wikipedia.org/wiki/Korg_DDD-1,1986,DrumMachine,Digital,Sample-based,
+Korg,Korg DS-8,http://dbpedia.org/resource/Korg_DS-8,http://en.wikipedia.org/wiki/Korg_DS-8,1987,Synthesizer,Digital,FM,8
+Korg,Korg DSS-1,http://dbpedia.org/resource/Korg_DSS-1,http://en.wikipedia.org/wiki/Korg_DSS-1,1986,Sampler,Digital,Sample-based,
+Korg,Korg DW-6000,http://dbpedia.org/resource/Korg_DW-6000,http://en.wikipedia.org/wiki/Korg_DW-6000,1985,Synthesizer,Hybrid,Wavetable,6
+Korg,Korg DW-8000,http://dbpedia.org/resource/Korg_DW-8000,http://en.wikipedia.org/wiki/Korg_DW-8000,1985,Synthesizer,Hybrid,Wavetable,8
+Korg,Korg M1,http://dbpedia.org/resource/Korg_M1,http://en.wikipedia.org/wiki/Korg_M1,1988,Synthesizer,Digital,Sample-based,16
+Korg,Korg M3,http://dbpedia.org/resource/Korg_M3,http://en.wikipedia.org/wiki/Korg_M3,2007,Synthesizer,Digital,Sample-based,60
+Korg,Korg Minilogue,http://dbpedia.org/resource/Korg_Minilogue,http://en.wikipedia.org/wiki/Korg_Minilogue,2016,Synthesizer,Analog,Subtractive,4
+Korg,Korg Mono/Poly,http://dbpedia.org/resource/Korg_Mono/Poly,http://en.wikipedia.org/wiki/Korg_Mono/Poly,1981,Synthesizer,Analog,Subtractive,4
+Korg,Korg MS2000,http://dbpedia.org/resource/Korg_MS2000,http://en.wikipedia.org/wiki/Korg_MS2000,2000,Synthesizer,Digital,Subtractive,4
+Korg,Korg N364,http://dbpedia.org/resource/Korg_N364/264,http://en.wikipedia.org/wiki/Korg_N364/264,1996,Synthesizer,Digital,Sample-based,64
+Korg,Korg Poly-61,http://dbpedia.org/resource/Korg_Poly-61,http://en.wikipedia.org/wiki/Korg_Poly-61,1982,Synthesizer,Analog,Subtractive,6
+Korg,Korg Poly-800,http://dbpedia.org/resource/Korg_Poly-800,http://en.wikipedia.org/wiki/Korg_Poly-800,1983,Synthesizer,Analog,Subtractive,8
+Korg,Korg PS-3300,http://dbpedia.org/resource/Korg_PS-3300,http://en.wikipedia.org/wiki/Korg_PS-3300,1977,Synthesizer,Analog,Subtractive,48
+Korg,Korg Trinity,http://dbpedia.org/resource/Korg_Trinity,http://en.wikipedia.org/wiki/Korg_Trinity,1995,Synthesizer,Digital,Sample-based,32
+Korg,Korg Wavestation,http://dbpedia.org/resource/Korg_Wavestation,http://en.wikipedia.org/wiki/Korg_Wavestation,1990,Synthesizer,Digital,Vector,32
+Korg,Korg X3,http://dbpedia.org/resource/Korg_X3,http://en.wikipedia.org/wiki/Korg_X3,1993,Synthesizer,Digital,Sample-based,32
+Korg,Korg Z1,http://dbpedia.org/resource/Korg_Z1,http://en.wikipedia.org/wiki/Korg_Z1,1997,Synthesizer,Digital,Physical modelling,12
+Kurzweil,Kurzweil K2000,http://dbpedia.org/resource/Kurzweil_K2000,http://en.wikipedia.org/wiki/Kurzweil_K2000,1991,Sampler,Digital,Sample-based,
+Linn Electronics,Linn Electronics Linn 9000,http://dbpedia.org/resource/Linn_9000,http://en.wikipedia.org/wiki/Linn_9000,1984,DrumMachine,Digital,Sample-based,
+Linn Electronics,Linn Electronics LinnDrum,http://dbpedia.org/resource/LinnDrum,http://en.wikipedia.org/wiki/LinnDrum,1982,DrumMachine,Digital,Sample-based,
+Moog,Moog Memorymoog,http://dbpedia.org/resource/Memorymoog,http://en.wikipedia.org/wiki/Memorymoog,1982,Synthesizer,Analog,Subtractive,6
+Moog,Moog Sonic Six,http://dbpedia.org/resource/Moog_Sonic_Six,http://en.wikipedia.org/wiki/Moog_Sonic_Six,1972,Synthesizer,Analog,Subtractive,2
+Oberheim,Oberheim OB-8,http://dbpedia.org/resource/Oberheim_OB-8,http://en.wikipedia.org/wiki/Oberheim_OB-8,1983,Synthesizer,Analog,Subtractive,8
+Oberheim,Oberheim OB-SX,http://dbpedia.org/resource/Oberheim_OB-SX,http://en.wikipedia.org/wiki/Oberheim_OB-SX,1980,Synthesizer,Analog,Subtractive,6
+Oberheim,Oberheim OB-X,http://dbpedia.org/resource/Oberheim_OB-X,http://en.wikipedia.org/wiki/Oberheim_OB-X,1979,Synthesizer,Analog,Subtractive,8
+Oberheim,Oberheim OB-Xa,http://dbpedia.org/resource/Oberheim_OB-Xa,http://en.wikipedia.org/wiki/Oberheim_OB-Xa,1980,Synthesizer,Analog,Subtractive,8
+Oberheim,Oberheim Two Voice,http://dbpedia.org/resource/Oberheim_TVS-1A,http://en.wikipedia.org/wiki/Oberheim_TVS-1A,1975,Synthesizer,Analog,Subtractive,2
+Oberheim,Oberheim Xpander,http://dbpedia.org/resource/Oberheim_Xpander,http://en.wikipedia.org/wiki/Oberheim_Xpander,1984,Synthesizer,Analog,Subtractive,6
+Quasimidi,Quasimidi Rave-O-Lution 309,http://dbpedia.org/resource/Quasimidi_Rave-O-Lution_309,http://en.wikipedia.org/wiki/Quasimidi_Rave-O-Lution_309,1996,Synthesizer,Digital,Sample-based,32
+Quasimidi,Quasimidi Raven,http://dbpedia.org/resource/Quasimidi_Raven,http://en.wikipedia.org/wiki/Quasimidi_Raven,1996,Synthesizer,Digital,Sample-based,24
+Rhodes,Rhodes Chroma,http://dbpedia.org/resource/Rhodes_Chroma,http://en.wikipedia.org/wiki/Rhodes_Chroma,1982,Synthesizer,Analog,Subtractive,8
+Roland,Roland Alpha Juno 2,http://dbpedia.org/resource/Roland_Alpha_Juno,http://en.wikipedia.org/wiki/Roland_Alpha_Juno,1985,Synthesizer,Analog,Subtractive,6
+Roland,Roland Alpha Juno-1,,,1985,Synthesizer,Analog,Subtractive,6
+Roland,Roland D-50,http://dbpedia.org/resource/Roland_D-50,http://en.wikipedia.org/wiki/Roland_D-50,1987,Synthesizer,Digital,Sample-based,16
+Roland,Roland D-70,http://dbpedia.org/resource/Roland_D-70,http://en.wikipedia.org/wiki/Roland_D-70,1990,Synthesizer,Digital,Sample-based,30
+Roland,Roland DJ-70,http://dbpedia.org/resource/Roland_DJ-70,http://en.wikipedia.org/wiki/Roland_DJ-70,1992,Sampler,Digital,Sample-based,
+Roland,Roland Fantom-X,http://dbpedia.org/resource/Roland_Fantom-X,http://en.wikipedia.org/wiki/Roland_Fantom-X,2004,Synthesizer,Digital,Sample-based,128
+Roland,Roland JD-800,http://dbpedia.org/resource/Roland_JD-800,http://en.wikipedia.org/wiki/Roland_JD-800,1991,Synthesizer,Digital,Sample-based,6
+Roland,Roland JD-990,http://dbpedia.org/resource/Roland_JD-990,http://en.wikipedia.org/wiki/Roland_JD-990,1993,Synthesizer,Digital,Sample-based,24
+Roland,Roland JP-8000,http://dbpedia.org/resource/Roland_JP-8000,http://en.wikipedia.org/wiki/Roland_JP-8000,1996,Synthesizer,Digital,Subtractive,8
+Roland,Roland JP-8080,,,1996,Synthesizer,Digital,Subtractive,8
+Roland,Roland Juno-106,http://dbpedia.org/resource/Roland_Juno-106,http://en.wikipedia.org/wiki/Roland_Juno-106,1984,Synthesizer,Analog,Subtractive,6
+Roland,Roland Juno-6,,,1982,Synthesizer,Analog,Subtractive,6
+Roland,Roland Juno-60,http://dbpedia.org/resource/Roland_Juno-60,http://en.wikipedia.org/wiki/Roland_Juno-60,1982,Synthesizer,Analog,Subtractive,6
+Roland,Roland Juno-D,http://dbpedia.org/resource/Roland_Juno-D,http://en.wikipedia.org/wiki/Roland_Juno-D,2005,Synthesizer,Digital,Sample-based,64
+Roland,Roland Juno-G,http://dbpedia.org/resource/Roland_Juno-G,http://en.wikipedia.org/wiki/Roland_Juno-G,2006,Synthesizer,Digital,Sample-based,128
+Roland,Roland Jupiter-4,http://dbpedia.org/resource/Roland_Jupiter-4,http://en.wikipedia.org/wiki/Roland_Jupiter-4,1978,Synthesizer,Analog,Subtractive,4
+Roland,Roland Jupiter-6,http://dbpedia.org/resource/Roland_Jupiter-6,http://en.wikipedia.org/wiki/Roland_Jupiter-6,1983,Synthesizer,Analog,Subtractive,6
+Roland,Roland Jupiter-8,http://dbpedia.org/resource/Roland_Jupiter-8,http://en.wikipedia.org/wiki/Roland_Jupiter-8,1981,Synthesizer,Analog,Subtractive,8
+Roland,Roland Jupiter-80,http://dbpedia.org/resource/Roland_Jupiter-80,http://en.wikipedia.org/wiki/Roland_Jupiter-80,2011,Synthesizer,Digital,Sample-based,256
+Roland,Roland JV-1080,http://dbpedia.org/resource/Roland_JV-1080,http://en.wikipedia.org/wiki/Roland_JV-1080,1994,Synthesizer,Digital,Sample-based,64
+Roland,Roland JV-2080,http://dbpedia.org/resource/Roland_JV-2080,http://en.wikipedia.org/wiki/Roland_JV-2080,1997,Synthesizer,Digital,Sample-based,64
+Roland,Roland JX-10,http://dbpedia.org/resource/Roland_JX-10,http://en.wikipedia.org/wiki/Roland_JX-10,1986,Synthesizer,Analog,Subtractive,12
+Roland,Roland JX-3P,http://dbpedia.org/resource/Roland_JX-3P,http://en.wikipedia.org/wiki/Roland_JX-3P,1983,Synthesizer,Analog,Subtractive,6
+Roland,Roland JX-8P,http://dbpedia.org/resource/Roland_JX-8P,http://en.wikipedia.org/wiki/Roland_JX-8P,1985,Synthesizer,Analog,Subtractive,6
+Roland,Roland MC-09,http://dbpedia.org/resource/Roland_MC-09,http://en.wikipedia.org/wiki/Roland_MC-09,2002,Synthesizer,Digital,Sample-based,3
+Roland,Roland MC-303,http://dbpedia.org/resource/Roland_MC-303,http://en.wikipedia.org/wiki/Roland_MC-303,1996,Synthesizer,Digital,Sample-based,28
+Roland,Roland MC-307,http://dbpedia.org/resource/Roland_MC-307,http://en.wikipedia.org/wiki/Roland_MC-307,1999,Synthesizer,Digital,Sample-based,64
+Roland,Roland MC-505,http://dbpedia.org/resource/Roland_MC-505,http://en.wikipedia.org/wiki/Roland_MC-505,1998,Synthesizer,Digital,Sample-based,64
+Roland,Roland MC-808,http://dbpedia.org/resource/Roland_MC-808,http://en.wikipedia.org/wiki/Roland_MC-808,2006,Synthesizer,Digital,Sample-based,128
+Roland,Roland MC-909,http://dbpedia.org/resource/Roland_MC-909,http://en.wikipedia.org/wiki/Roland_MC-909,2002,Synthesizer,Digital,Sample-based,64
+Roland,Roland MKS-80,http://dbpedia.org/resource/Roland_MKS-80,http://en.wikipedia.org/wiki/Roland_MKS-80,1984,Synthesizer,Analog,Subtractive,8
+Roland,Roland R-8,http://dbpedia.org/resource/Roland_R-8,http://en.wikipedia.org/wiki/Roland_R-8,1989,DrumMachine,Digital,Sample-based,
+Roland,Roland S-10,http://dbpedia.org/resource/Roland_S-10,http://en.wikipedia.org/wiki/Roland_S-10,1987,Sampler,Digital,Sample-based,
+Roland,Roland S-220,,,1987,Sampler,Digital,Sample-based,
+Roland,Roland S-50,http://dbpedia.org/resource/Roland_S-50,http://en.wikipedia.org/wiki/Roland_S-50,1986,Sampler,Digital,Sample-based,
+Roland,Roland SH-201,http://dbpedia.org/resource/Roland_SH-201,http://en.wikipedia.org/wiki/Roland_SH-201,2006,Synthesizer,Digital,Subtractive,10
+Roland,Roland TR-606,http://dbpedia.org/resource/Roland_TR-606,http://en.wikipedia.org/wiki/Roland_TR-606,1981,DrumMachine,Analog,Subtractive,
+Roland,Roland TR-707,http://dbpedia.org/resource/Roland_TR-707,http://en.wikipedia.org/wiki/Roland_TR-707,1985,DrumMachine,Digital,Sample-based,
+Roland,Roland TR-727,,,1985,DrumMachine,Digital,Sample-based,
+Roland,Roland TR-808,http://dbpedia.org/resource/Roland_TR-808,http://en.wikipedia.org/wiki/Roland_TR-808,1980,DrumMachine,Analog,Subtractive,
+Roland,Roland TR-909,http://dbpedia.org/resource/Roland_TR-909,http://en.wikipedia.org/wiki/Roland_TR-909,1983,DrumMachine,Hybrid,Sample-based,
+Roland,Roland U-20,http://dbpedia.org/resource/Roland_U-20,http://en.wikipedia.org/wiki/Roland_U-20,1989,Synthesizer,Digital,Sample-based,30
+Roland,Roland V-Synth,http://dbpedia.org/resource/Roland_V-Synth,http://en.wikipedia.org/wiki/Roland_V-Synth,2007,Synthesizer,Digital,Sample-based,24
+Roland,Roland W-30,http://dbpedia.org/resource/Roland_W-30,http://en.wikipedia.org/wiki/Roland_W-30,1989,Sampler,Digital,Sample-based,
+Roland,Roland XP-10,,,1999,Synthesizer,Digital,Sample-based,64
+Roland,Roland XP-30,http://dbpedia.org/resource/Roland_XP-30,http://en.wikipedia.org/wiki/Roland_XP-30,1999,Synthesizer,Digital,Sample-based,64
+Roland,Roland XP-50,http://dbpedia.org/resource/Roland_XP-50,http://en.wikipedia.org/wiki/Roland_XP-50,1995,Synthesizer,Digital,Sample-based,64
+Roland,Roland XP-80,http://dbpedia.org/resource/Roland_XP-80,http://en.wikipedia.org/wiki/Roland_XP-80,1996,Synthesizer,Digital,Sample-based,64
+Sequential Circuits,Sequential Circuits Prophet 2000,http://dbpedia.org/resource/Prophet_2000,http://en.wikipedia.org/wiki/Prophet_2000,1985,Sampler,Digital,Sample-based,
+Sequential Circuits,Sequential Circuits Prophet 5,http://dbpedia.org/resource/Prophet-5,http://en.wikipedia.org/wiki/Prophet-5,1977,Synthesizer,Analog,Subtractive,5
+Sequential Circuits,Sequential Circuits Six-Trak,http://dbpedia.org/resource/Six-Trak,http://en.wikipedia.org/wiki/Six-Trak,1984,Synthesizer,Analog,Subtractive,6
+Sequential Circuits,Sequential Circuits Split-8,http://dbpedia.org/resource/Split-8,http://en.wikipedia.org/wiki/Split-8,1985,Synthesizer,Analog,Subtractive,8
+Sequential Circuits,Sequential Circuits Studio 440,http://dbpedia.org/resource/Sequential_Circuits_Studio_440,http://en.wikipedia.org/wiki/Sequential_Circuits_Studio_440,1986,Sampler,Digital,Sample-based,
+Siel,Siel DK70,http://dbpedia.org/resource/Siel_DK70,http://en.wikipedia.org/wiki/Siel_DK70,1986,Synthesizer,Analog,Subtractive,8
+Siel,Siel Orchestra,http://dbpedia.org/resource/Siel_Orchestra,http://en.wikipedia.org/wiki/Siel_Orchestra,1979,Synthesizer,Analog,Subtractive,49
+Waldorf,Waldorf Blofeld,http://dbpedia.org/resource/Waldorf_Blofeld,http://en.wikipedia.org/wiki/Waldorf_Blofeld,2007,Synthesizer,Digital,Wavetable,25
+Yamaha,Yamaha AN1x,http://dbpedia.org/resource/Yamaha_AN1x,http://en.wikipedia.org/wiki/Yamaha_AN1x,1997,Synthesizer,Digital,Subtractive,10
+Yamaha,Yamaha CS-80,http://dbpedia.org/resource/Yamaha_CS-80,http://en.wikipedia.org/wiki/Yamaha_CS-80,1977,Synthesizer,Analog,Subtractive,8
+Yamaha,Yamaha CS1x,http://dbpedia.org/resource/Yamaha_CS1x,http://en.wikipedia.org/wiki/Yamaha_CS1x,1996,Synthesizer,Digital,Sample-based,32
+Yamaha,Yamaha CS2x,http://dbpedia.org/resource/Yamaha_CS2x,http://en.wikipedia.org/wiki/Yamaha_CS2x,1999,Synthesizer,Digital,Sample-based,64
+Yamaha,Yamaha DX1,http://dbpedia.org/resource/Yamaha_DX1,http://en.wikipedia.org/wiki/Yamaha_DX1,1983,Synthesizer,Digital,FM,16
+Yamaha,Yamaha DX11,,,1983,Synthesizer,Digital,FM,16
+Yamaha,Yamaha DX21,http://dbpedia.org/resource/Yamaha_DX21,http://en.wikipedia.org/wiki/Yamaha_DX21,1985,Synthesizer,Digital,FM,8
+Yamaha,Yamaha DX27,http://dbpedia.org/resource/Yamaha_DX27,http://en.wikipedia.org/wiki/Yamaha_DX27,1985,Synthesizer,Digital,FM,8
+Yamaha,Yamaha DX5,,,1983,Synthesizer,Digital,FM,16
+Yamaha,Yamaha DX7,http://dbpedia.org/resource/Yamaha_DX7,http://en.wikipedia.org/wiki/Yamaha_DX7,1983,Synthesizer,Digital,FM,16
+Yamaha,Yamaha DX9,http://dbpedia.org/resource/Yamaha_DX9,http://en.wikipedia.org/wiki/Yamaha_DX9,1983,Synthesizer,Digital,FM,16
+Yamaha,Yamaha EX5,http://dbpedia.org/resource/Yamaha_EX5,http://en.wikipedia.org/wiki/Yamaha_EX5,1998,Sampler,Digital,Sample-based,
+Yamaha,Yamaha FS1R,http://dbpedia.org/resource/Yamaha_FS1R,http://en.wikipedia.org/wiki/Yamaha_FS1R,1998,Synthesizer,Digital,FM,32
+Yamaha,Yamaha GX-1,http://dbpedia.org/resource/Yamaha_GX-1,http://en.wikipedia.org/wiki/Yamaha_GX-1,1973,Synthesizer,Analog,Subtractive,18
+Yamaha,Yamaha SY22,http://dbpedia.org/resource/Yamaha_SY22,http://en.wikipedia.org/wiki/Yamaha_SY22,1990,Synthesizer,Digital,Vector,16
+Yamaha,Yamaha SY77,http://dbpedia.org/resource/Yamaha_SY77,http://en.wikipedia.org/wiki/Yamaha_SY77,1989,Synthesizer,Digital,FM,32
+Yamaha,Yamaha SY85,http://dbpedia.org/resource/Yamaha_SY85,http://en.wikipedia.org/wiki/Yamaha_SY85,1992,Synthesizer,Digital,Sample-based,30
+Yamaha,Yamaha SY99,http://dbpedia.org/resource/Yamaha_SY99,http://en.wikipedia.org/wiki/Yamaha_SY99,1991,Synthesizer,Digital,FM,32
+Yamaha,Yamaha TX16W,http://dbpedia.org/resource/Yamaha_TX16W,http://en.wikipedia.org/wiki/Yamaha_TX16W,1988,Sampler,Digital,Sample-based,
+Yamaha,Yamaha TX7,,,1983,Synthesizer,Digital,FM,16
+Yamaha,Yamaha TX81Z,http://dbpedia.org/resource/Yamaha_TX81Z,http://en.wikipedia.org/wiki/Yamaha_TX81Z,1987,Synthesizer,Digital,FM,8
+Yamaha,Yamaha YS200,http://dbpedia.org/resource/Yamaha_YS200,http://en.wikipedia.org/wiki/Yamaha_YS200,1988,Synthesizer,Digital,FM,8
+Oberheim,Oberheim Prommer,http://dbpedia.org/resource/Oberheim_Prommer,http://en.wikipedia.org/wiki/Oberheim_Prommer,1983,Synthesizer,Digital,Sample-based,16
+Oberheim,Oberheim SEM,http://dbpedia.org/resource/Oberheim_Polyphonic_Synthesizer,http://en.wikipedia.org/wiki/Oberheim_Polyphonic_Synthesizer,1975,Synthesizer,Analog,Subtractive,4
+Roland,Roland JD-XA,http://dbpedia.org/resource/Roland_JD-XA,http://en.wikipedia.org/wiki/Roland_JD-XA,2015,Synthesizer,Hybrid,Subtractive,4
+Roland,Roland System 100m,http://dbpedia.org/resource/Roland_System-100M,http://en.wikipedia.org/wiki/Roland_System-100M,1979,Synthesizer,Analog,Subtractive,4
+Sequential Circuits,Sequential Circuits Prophet Remote,,,1977,Synthesizer,Analog,Subtractive,10

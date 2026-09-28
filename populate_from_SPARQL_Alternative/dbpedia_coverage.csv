@@ -1,0 +1,893 @@
+manufacturer,name,exists_in_dbpedia,dbpedia_iri,wiki_url,year,sound_generation,top_level_class,synthesis_type,polyphony
+Access,Access Virus A,False,,,,,,,
+Access,Access Virus B,False,,,,,,,
+Access,Access Virus C,False,,,,,,,
+Access,Access Virus TDM,False,,,,,,,
+Access,Access Virus TI,True,http://dbpedia.org/resource/Access_Virus,http://en.wikipedia.org/wiki/Access_Virus,,Digital,Synthesizer,Subtractive synthesis,
+Access,Access Virus TI Polar,False,,,,,,,
+Access,Access Virus TI Snow,False,,,,,,,
+Akai,Akai AX60,True,http://dbpedia.org/resource/Akai_AX60,http://en.wikipedia.org/wiki/Akai_AX60,1986,Analog,Synthesizer,Subtractive synthesis,6
+Akai,Akai AX73,False,,,,,,,
+Akai,Akai AX80,True,http://dbpedia.org/resource/Akai_AX80,http://en.wikipedia.org/wiki/Akai_AX80,1984,Analog,Synthesizer,Subtractive synthesis,8
+Akai,Akai MINIAK,False,,,,,,,
+Akai,Akai MPC1000,False,,,,,,,
+Akai,Akai MPC2000,True,http://dbpedia.org/resource/Akai_MPC,http://en.wikipedia.org/wiki/Akai_MPC60,,,Sampler,,
+Akai,Akai MPC3000,True,http://dbpedia.org/resource/Akai_MPC,http://en.wikipedia.org/wiki/Akai_MPC60,,,Sampler,,
+Akai,Akai MPC60,True,http://dbpedia.org/resource/Akai_MPC,http://en.wikipedia.org/wiki/Akai_MPC60,,,Sampler,,
+Akai,Akai Rhythm Wolf,False,,,,,,,
+Akai,Akai S01,True,http://dbpedia.org/resource/S1,http://en.wikipedia.org/wiki/S1,,,Synthesizer,,
+Akai,Akai S1000,True,http://dbpedia.org/resource/Akai_S1000,http://en.wikipedia.org/wiki/Akai_S1000,1988,,Sampler,Digital synthesizer,16
+Akai,Akai S20,True,http://dbpedia.org/resource/S20,http://en.wikipedia.org/wiki/S20,,,Synthesizer,,
+Akai,Akai S2000,True,http://dbpedia.org/resource/S2000,http://en.wikipedia.org/wiki/S2000,,,Synthesizer,,
+Akai,Akai S3000,True,http://dbpedia.org/resource/Akai_S3000XL,http://en.wikipedia.org/wiki/Akai_S3000XL,1996,,Sampler,Digital synthesizer,32
+Akai,Akai S5000,True,http://dbpedia.org/resource/S5000_Australian_Drivers'_Championship,http://en.wikipedia.org/wiki/S5000_Australian_Drivers'_Championship,,,Synthesizer,,
+Akai,Akai S612,False,,,,,,,
+Akai,Akai S700,True,http://dbpedia.org/resource/S700,http://en.wikipedia.org/wiki/S700,,,Synthesizer,,
+Akai,Akai S900,True,http://dbpedia.org/resource/Akai_S900,http://en.wikipedia.org/wiki/Akai_S900,1986,,Sampler,Digital synthesizer,8
+Akai,Akai Timbre Wolf,False,,,,,,,
+Akai,Akai Tom Cat,True,http://dbpedia.org/resource/Tom_Cat,http://en.wikipedia.org/wiki/Tom_Cat,,,Synthesizer,,
+Akai,Akai VX600,False,,,,,,,
+Akai,Akai VX90,False,,,,,,,
+Akai,Akai X3700,False,,,,,,,
+Akai,Akai X7000,True,http://dbpedia.org/resource/Akai_X7000,http://en.wikipedia.org/wiki/Akai_X7000,1986,,Sampler,,6
+Akai,Akai XR10,False,,,,,,,
+Akai,Akai XR20,False,,,,,,,
+Alesis,Alesis Andromeda A6,True,http://dbpedia.org/resource/Alesis_Andromeda_A6,http://en.wikipedia.org/wiki/Alesis_Andromeda_A6,2000,Analog,Synthesizer,Subtractive synthesis,16
+Alesis,Alesis D4,True,http://dbpedia.org/resource/D4,http://en.wikipedia.org/wiki/D4,,,Synthesizer,,
+Alesis,Alesis Fusion,True,http://dbpedia.org/resource/Alesis_Fusion,http://en.wikipedia.org/wiki/Alesis_Fusion,2005,Digital,Synthesizer,FM and Physical Modeling,Dynamic processor allocation
+Alesis,Alesis HR-16,False,,,,,,,
+Alesis,Alesis Ion,True,http://dbpedia.org/resource/Alesis_Ion,http://en.wikipedia.org/wiki/Alesis_Ion,2003,Analog,Synthesizer,Analog modeling synthesizer,8
+Alesis,Alesis Micron,True,http://dbpedia.org/resource/Alesis_Ion,http://en.wikipedia.org/wiki/Alesis_Ion,2003,Analog,Synthesizer,Analog modeling synthesizer,8
+Alesis,Alesis NanoBass,False,,,,,,,
+Alesis,Alesis NanoPiano,False,,,,,,,
+Alesis,Alesis NanoSynth,False,,,,,,,
+Alesis,Alesis QS6,False,,,,,,,
+Alesis,Alesis QS6.1,False,,,,,,,
+Alesis,Alesis QS7,False,,,,,,,
+Alesis,Alesis QS7.1,False,,,,,,,
+Alesis,Alesis QS8,False,,,,,,,
+Alesis,Alesis QS8.1,False,,,,,,,
+Alesis,Alesis QSR,True,http://dbpedia.org/resource/QSR,http://en.wikipedia.org/wiki/QSR,,,Synthesizer,,
+Alesis,Alesis QuadraSynth,False,,,,,,,
+Alesis,Alesis S4,True,http://dbpedia.org/resource/S4,,,,Synthesizer,,
+Alesis,Alesis SR-16,False,,,,,,,
+Analogue Systems,Analogue Systems RS-Integrator,False,,,,,,,
+Applied Acoustics,Applied Acoustics Lounge Lizard,True,http://dbpedia.org/resource/Lounge_lizard,http://en.wikipedia.org/wiki/Lounge_lizard,,,Synthesizer,,
+Applied Acoustics,Applied Acoustics Tassman,False,,,,,,,
+Applied Acoustics,Applied Acoustics Tassman 4,False,,,,,,,
+ARP,ARP Odyssey 1,True,http://dbpedia.org/resource/Odyssey_(TV_channel),http://en.wikipedia.org/wiki/Odyssey_(TV_channel),,,Synthesizer,,
+ARP,ARP Omni Mk 1,False,,,,,,,
+ARP,ARP Quadra,True,http://dbpedia.org/resource/ARP_Quadra,http://en.wikipedia.org/wiki/ARP_Quadra,1978,Analog,Synthesizer,Subtractive synthesis,12
+ARP,ARP Quartet,True,http://dbpedia.org/resource/Siel_Orchestra,http://en.wikipedia.org/wiki/Siel_Orchestra,1979,Analog,Synthesizer,Subtractive synthesis,49
+ARP,ARP Solina String Ensemble,True,http://dbpedia.org/resource/ARP_String_Ensemble,http://en.wikipedia.org/wiki/ARP_String_Ensemble,1974,Analog,Synthesizer,Subtractive synthesis,Full
+ARP,ARP Solina String Synthesizer,True,http://dbpedia.org/resource/ARP_String_Synthesizer,http://en.wikipedia.org/wiki/ARP_String_Synthesizer,1975,Analog,Synthesizer,Subtractive synthesis,16
+Arturia,Arturia ARP 2600V,False,,,,,,,
+Arturia,Arturia CS-80V,False,,,,,,,
+Arturia,Arturia Jupiter-8V,False,,,,,,,
+Arturia,Arturia Minimoog V,False,,,,,,,
+Arturia,Arturia Moog Modular V,True,http://dbpedia.org/resource/Moog_synthesizer,http://en.wikipedia.org/wiki/Moog_synthesizer,1965,Analog,Synthesizer,Subtractive synthesis,
+Arturia,Arturia Prophet-V,False,,,,,,,
+BitHeadz,BitHeadz Retro AS-1,False,,,,,,,
+BitHeadz,BitHeadz Unity DS-1,False,,,,,,,
+BOSS,BOSS DR-110 Dr. Rhythm,False,,,,,,,
+BOSS,BOSS DR-202 Dr. Groove,False,,,,,,,
+BOSS,BOSS DR-220 Dr. Rhythm,False,,,,,,,
+BOSS,BOSS DR-55 Dr. Rhythm,False,,,,,,,
+BOSS,BOSS SP-202 Dr. Sample,False,,,,,,,
+BOSS,BOSS SP-303 Dr. Sample,False,,,,,,,
+BOSS,BOSS SP-505,True,http://dbpedia.org/resource/Boss_SP-505,http://en.wikipedia.org/wiki/Boss_SP-505,,,Sequencer,,
+Buchla,Buchla 200e Series,False,,,,,,,
+Buchla,Buchla 400 Series,False,,,,,,,
+Buchla,Buchla 700 Series,False,,,,,,,
+Buchla,Buchla Touché,True,http://dbpedia.org/resource/Touche,http://en.wikipedia.org/wiki/Touche,,,Synthesizer,,
+Casio,Casio CT-101,False,,,,,,,
+Casio,Casio CT-401,False,,,,,,,
+Casio,Casio CZ-1,True,http://dbpedia.org/resource/Casio_CZ_synthesizers,http://en.wikipedia.org/wiki/Casio_CZ_synthesizers,,Digital,Synthesizer,Phase distortion synthesis,
+Casio,Casio CZ-1000,True,http://dbpedia.org/resource/Casio_CZ-1000,,,,Synthesizer,,
+Casio,Casio CZ-101,True,http://dbpedia.org/resource/Casio_CZ_synthesizers,http://en.wikipedia.org/wiki/Casio_CZ_synthesizers,,Digital,Synthesizer,Phase distortion synthesis,
+Casio,Casio CZ-230S,False,,,,,,,
+Casio,Casio CZ-3000,True,http://dbpedia.org/resource/Casio_CZ_synthesizers,http://en.wikipedia.org/wiki/Casio_CZ_synthesizers,,Digital,Synthesizer,Phase distortion synthesis,
+Casio,Casio CZ-5000,True,http://dbpedia.org/resource/Casio_CZ_synthesizers,http://en.wikipedia.org/wiki/Casio_CZ_synthesizers,,Digital,Synthesizer,Phase distortion synthesis,
+Casio,Casio FZ-1,True,http://dbpedia.org/resource/Casiotone,http://en.wikipedia.org/wiki/Casio_FZ-1,,Digital,Synthesizer,FM synthesis,
+Casio,Casio FZ20M,False,,,,,,,
+Casio,Casio HT-3000,True,http://dbpedia.org/resource/Casio_SD_Synthesizers,http://en.wikipedia.org/wiki/Casio_SD_Synthesizers,,Digital,Synthesizer,FM synthesis,
+Casio,Casio HZ-600,True,http://dbpedia.org/resource/Casio_SD_Synthesizers,http://en.wikipedia.org/wiki/Casio_SD_Synthesizers,,Digital,Synthesizer,FM synthesis,
+Casio,Casio MT-40,True,http://dbpedia.org/resource/Casio_MT-40,http://en.wikipedia.org/wiki/Casio_MT-40,,,Synthesizer,,
+Casio,Casio RZ-1,True,http://dbpedia.org/resource/Casio_RZ-1,,,,Synthesizer,,
+Casio,Casio SK-1,True,http://dbpedia.org/resource/Casio_SK-1,http://en.wikipedia.org/wiki/Casio_SK-1,1985,Hybrid,Synthesizer,Sampling (music),4
+Casio,Casio VZ-1,True,http://dbpedia.org/resource/Hiller_VZ-1_Pawnee,http://en.wikipedia.org/wiki/Hiller_VZ-1_Pawnee,,,Synthesizer,,
+Casio,Casio VZ-8M,False,,,,,,,
+Casio,Casio XW-G1,False,,,,,,,
+Casio,Casio XW-P1 performance synthesizer,False,,,,,,,
+Cheetah,Cheetah MD-16,False,,,,,,,
+Cheetah,Cheetah MS-6,True,http://dbpedia.org/resource/MS6,http://en.wikipedia.org/wiki/MS6,,,Synthesizer,,
+Cheetah,Cheetah MS800,False,,,,,,,
+Clavia,Clavia Nord Lead 2 Rack,False,,,,,,,
+Clavia,Clavia Nord Lead 3,False,,,,,,,
+Clavia,Clavia Nord Micro Modular,False,,,,,,,
+Clavia,Clavia Nord Modular,True,http://dbpedia.org/resource/Nord_Modular,http://en.wikipedia.org/wiki/Nord_Modular,,Digital,Synthesizer,Subtractive synthesis,
+Clavia,Clavia Nord Rack,False,,,,,,,
+Clavia,Clavia Nord Stage 2,True,http://dbpedia.org/resource/Nord_Stage,http://en.wikipedia.org/wiki/Nord_Stage,,Analog,Synthesizer,Analog modeling synthesizer,
+Clavia,Clavia Nord Wave,True,http://dbpedia.org/resource/Nord_Wave,http://en.wikipedia.org/wiki/Nord_Wave,,Digital,Synthesizer,FM synthesis,
+Con Brio,Con Brio ADS 200,False,,,,,,,
+Creamware,Creamware  Noah Tactive Instrument Modeller,False,,,,,,,
+Creamware,Creamware Minimax ASB,False,,,,,,,
+Creamware,Creamware Pulsar,True,http://dbpedia.org/resource/Creamware_(company),http://en.wikipedia.org/wiki/Creamware_(company),,,Synthesizer,,
+Crumar,Crumar Bit 01,False,,,,,,,
+Crumar,Crumar Bit 99,False,,,,,,,
+Crumar,Crumar Bit One,False,,,,,,,
+Crumar,Crumar DS-2,True,http://dbpedia.org/resource/DS2,http://en.wikipedia.org/wiki/DS2,,,Synthesizer,,
+Crumar,Crumar Multiman-S,False,,,,,,,
+Crumar,Crumar Performer,True,http://dbpedia.org/resource/Performing_arts,http://en.wikipedia.org/wiki/Performing_arts,,,Synthesizer,,
+Crumar,Crumar Stratus,True,http://dbpedia.org/resource/Stratus,http://en.wikipedia.org/wiki/Stratus,,,Synthesizer,,
+Crumar,Crumar Trilogy Orchestral Synthesizer,False,,,,,,,
+Dave Smith Instruments,Dave Smith Instruments OB-6,False,,,,,,,
+Dave Smith Instruments,Dave Smith Instruments Poly Evolver,False,,,,,,,
+Dave Smith Instruments,Dave Smith Instruments Poly Evolver Rack,False,,,,,,,
+Dave Smith Instruments,Dave Smith Instruments Prophet '08,True,http://dbpedia.org/resource/Prophet_'08,http://en.wikipedia.org/wiki/Prophet_'08,--08-20,Analog,Synthesizer,Subtractive synthesis,8
+Dave Smith Instruments,Dave Smith Instruments Tempest,True,http://dbpedia.org/resource/Tempest,http://en.wikipedia.org/wiki/Tempest,,,Synthesizer,,
+Dave Smith Instruments,Dave Smith Instruments Tetra,True,http://dbpedia.org/resource/Tetra,http://en.wikipedia.org/wiki/Tetra,,,Synthesizer,,
+Digital Keyboards,Digital Keyboards Synergy,True,http://dbpedia.org/resource/Synergy,http://en.wikipedia.org/wiki/Synergy,,,Synthesizer,,
+Doepfer,Doepfer A-100,True,http://dbpedia.org/resource/Doepfer_A-100,http://en.wikipedia.org/wiki/Doepfer_A-100,1995,Analog,Synthesizer,Subtractive synthesis,
+E-mu,E-mu Audity,True,http://dbpedia.org/resource/E-mu_Audity,http://en.wikipedia.org/wiki/E-mu_Audity,,,Synthesizer,,
+E-mu,E-mu Audity 2000,False,,,,,,,
+E-mu,E-mu B-3,True,http://dbpedia.org/resource/B3,http://en.wikipedia.org/wiki/B3,,,Synthesizer,,
+E-mu,E-mu Carnaval,True,http://dbpedia.org/resource/Carnival,http://en.wikipedia.org/wiki/Carnival,,,Synthesizer,,
+E-mu,E-mu Drumulator,True,http://dbpedia.org/resource/E-mu_Drumulator,http://en.wikipedia.org/wiki/E-mu_Drumulator,,,DrumMachine,,
+E-mu,E-mu Emax,True,http://dbpedia.org/resource/E-mu_Emax,http://en.wikipedia.org/wiki/E-mu_Emax,,,Sampler,Additive synthesis,
+E-mu,E-mu Emulator,True,http://dbpedia.org/resource/E-mu_Emulator,http://en.wikipedia.org/wiki/E-mu_Emulator,,,Sampler,Sample-based synthesis,8
+E-mu,E-mu Emulator II,True,http://dbpedia.org/resource/E-mu_Emulator,http://en.wikipedia.org/wiki/E-mu_Emulator,,,Sampler,Sample-based synthesis,8
+E-mu,E-mu Emulator III,True,http://dbpedia.org/resource/E-mu_Emulator,http://en.wikipedia.org/wiki/E-mu_Emulator,,,Sampler,Sample-based synthesis,8
+E-mu,E-mu Emulator IV,True,http://dbpedia.org/resource/E-mu_Emulator,http://en.wikipedia.org/wiki/E-mu_Emulator,,,Sampler,Sample-based synthesis,8
+E-mu,E-mu ESI-2000,False,,,,,,,
+E-mu,E-mu ESI-32,False,,,,,,,
+E-mu,E-mu ESI-4000,False,,,,,,,
+E-mu,E-mu MK-6 Mo'Phatt Keys,False,,,,,,,
+E-mu,E-mu Mo'Phatt,False,,,,,,,
+E-mu,E-mu Morpheus,True,http://dbpedia.org/resource/Morpheus,http://en.wikipedia.org/wiki/Morpheus,,,Synthesizer,,
+E-mu,E-mu MP-7 Command Station,False,,,,,,,
+E-mu,E-mu Orbit 9090,False,,,,,,,
+E-mu,E-mu Orbit-3,False,,,,,,,
+E-mu,E-mu PK-6 Proteus Keys,False,,,,,,,
+E-mu,E-mu Planet Earth,True,http://dbpedia.org/resource/Earth,http://en.wikipedia.org/wiki/Earth,,,Synthesizer,,
+E-mu,E-mu Planet Phatt,False,,,,,,,
+E-mu,E-mu Procussion,False,,,,,,,
+E-mu,E-mu Proteus,True,http://dbpedia.org/resource/E-mu_Proteus,http://en.wikipedia.org/wiki/E-mu_Proteus,,Digital,Synthesizer,Sample-based synthesis,up to 128 voices
+E-mu,E-mu Proteus 1000,False,,,,,,,
+E-mu,E-mu Proteus 2000,True,http://dbpedia.org/resource/E-mu_Proteus,http://en.wikipedia.org/wiki/E-mu_Proteus,,Digital,Synthesizer,Sample-based synthesis,up to 128 voices
+E-mu,E-mu Proteus 2500,True,http://dbpedia.org/resource/E-mu_Proteus,http://en.wikipedia.org/wiki/E-mu_Proteus,,Digital,Synthesizer,Sample-based synthesis,up to 128 voices
+E-mu,E-mu SP-12,True,http://dbpedia.org/resource/E-mu_SP-12,http://en.wikipedia.org/wiki/E-mu_SP-12,,,Sampler,,
+E-mu,E-mu SP-1200,True,http://dbpedia.org/resource/E-mu_SP-1200,http://en.wikipedia.org/wiki/E-mu_SP-1200,1987,,Sampler,26.04,polyphonic 8 voices
+E-mu,E-mu Vintage Keys,False,,,,,,,
+E-mu,E-mu Vintage Pro,False,,,,,,,
+E-mu,E-mu Virtuoso 2000,False,,,,,,,
+E-mu,E-mu XK-6 Xtreme Keys,False,,,,,,,
+E-mu,E-mu XL-7 Command Station,False,,,,,,,
+E-mu,E-mu Xtreme Lead-1,False,,,,,,,
+Electrix Pro,Electrix Pro Repeater,True,http://dbpedia.org/resource/Repeater,http://en.wikipedia.org/wiki/Repeater,,,Synthesizer,,
+Electronic Music Studios (EMS),Electronic Music Studios (EMS) Polysynthi,False,,,,,,,
+Elektron,Elektron Analog Rytm,False,,,,,,,
+Elektron,Elektron Analog Rytm MKII,False,,,,,,,
+Elektron,Elektron Elektron Octatrack,True,http://dbpedia.org/resource/Elektron_Octatrack,http://en.wikipedia.org/wiki/Elektron_Octatrack,,,Synthesizer,,
+Elektron,Elektron Machinedrum SPS-1,False,,,,,,,
+Elektron,Elektron Monomachine SFX-6,False,,,,,,,
+Elektron,Elektron SidStation,True,http://dbpedia.org/resource/Elektron_SidStation,http://en.wikipedia.org/wiki/Elektron_SidStation,1999,Analog,Synthesizer,Subtractive synthesis,1
+Elka,Elka Drumstar-80,False,,,,,,,
+Elka,Elka EK-22,False,,,,,,,
+Elka,Elka EM-44,False,,,,,,,
+Elka,Elka Synthex,True,http://dbpedia.org/resource/Elka_Synthex,http://en.wikipedia.org/wiki/Elka_Synthex,1981,Analog,Synthesizer,Subtractive synthesis,8
+EML,EML ElectroComp 100,False,,,,,,,
+EML,EML ElectroComp 101,False,,,,,,,
+EML,EML Poly-Box,False,,,,,,,
+Ensoniq,Ensoniq ASR-10,True,http://dbpedia.org/resource/Ensoniq_ASR-10,http://en.wikipedia.org/wiki/Ensoniq_ASR-10,1992,,Sampler,16,31
+Ensoniq,Ensoniq ASR-X,False,,,,,,,
+Ensoniq,Ensoniq ASR-X Pro,False,,,,,,,
+Ensoniq,Ensoniq EPS,True,http://dbpedia.org/resource/Ensoniq_EPS,http://en.wikipedia.org/wiki/Ensoniq_EPS,1988,,Sampler,13,20
+Ensoniq,Ensoniq EPS-16+,True,http://dbpedia.org/resource/Ensoniq_EPS,http://en.wikipedia.org/wiki/Ensoniq_EPS,1988,,Sampler,13,20
+Ensoniq,Ensoniq ESQ-1,True,http://dbpedia.org/resource/Ensoniq_ESQ-1,http://en.wikipedia.org/wiki/Ensoniq_ESQ-1,1986,Analog,Sequencer,Subtractive synthesis,8
+Ensoniq,Ensoniq Fizmo,True,http://dbpedia.org/resource/Ensoniq_Fizmo,http://en.wikipedia.org/wiki/Ensoniq_Fizmo,1998,Digital,Synthesizer,Sample-based synthesis,48
+Ensoniq,Ensoniq Halo,True,http://dbpedia.org/resource/Halo,http://en.wikipedia.org/wiki/Halo,,,Synthesizer,,
+Ensoniq,Ensoniq KT-88,True,http://dbpedia.org/resource/KT-88,http://en.wikipedia.org/wiki/KT-88,,,Synthesizer,,
+Ensoniq,Ensoniq Mirage,True,http://dbpedia.org/resource/Ensoniq_Mirage,http://en.wikipedia.org/wiki/Ensoniq_Mirage,1984,,Sampler,Digital synthesizer,8
+Ensoniq,Ensoniq MR-61,False,,,,,,,
+Ensoniq,Ensoniq SD-1,True,http://dbpedia.org/resource/SD1,http://en.wikipedia.org/wiki/SD1,,,Synthesizer,,
+Ensoniq,Ensoniq SQ-80,True,http://dbpedia.org/resource/Ensoniq_SQ-80,http://en.wikipedia.org/wiki/Ensoniq_SQ-80,1987,,Synthesizer,Cross Wave Synthesis,8
+Ensoniq,Ensoniq Sq-R,False,,,,,,,
+Ensoniq,Ensoniq TS-10 / TS-12,False,,,,,,,
+Ensoniq,Ensoniq VFX,True,http://dbpedia.org/resource/Ensoniq_VFX,http://en.wikipedia.org/wiki/Ensoniq_VFX,,,Synthesizer,,
+Ensoniq,Ensoniq ZR-76,False,,,,,,,
+Fairlight,Fairlight CMI (Series I - III),True,http://dbpedia.org/resource/Fairlight_CMI,http://en.wikipedia.org/wiki/Fairlight_CMI,1979,,Sampler,Sampler (musical instrument),8
+Farfisa,Farfisa Polychrome,True,http://dbpedia.org/resource/Polychrome,http://en.wikipedia.org/wiki/Polychrome,,,Synthesizer,,
+Farfisa,Farfisa Soundmaker,False,,,,,,,
+Formanta,Formanta Polivoks,True,http://dbpedia.org/resource/Polivoks,http://en.wikipedia.org/wiki/Polivoks,1982,Analog,Synthesizer,Subtractive synthesis,1
+Generalmusic (GEM),Generalmusic (GEM) S2,True,http://dbpedia.org/resource/S2,http://en.wikipedia.org/wiki/S2,,,Synthesizer,,
+GForce Software,GForce Software impOSCar,False,,,,,,,
+GForce Software,GForce Software M-Tron,False,,,,,,,
+GForce Software,GForce Software Oddity,True,http://dbpedia.org/resource/Oddity,http://en.wikipedia.org/wiki/Oddity,,,Synthesizer,,
+Gleeman,Gleeman Pentaphonic,False,,,,,,,
+Gotharman's,Gotharman's Little deFormer 2,False,,,,,,,
+Hartmann,Hartmann Neuron,True,http://dbpedia.org/resource/Hartmann_Neuron,http://en.wikipedia.org/wiki/Hartmann_Neuron,2003,,Synthesizer,Neural network (machine learning),16
+Horst,Horst MWT-01 Midi Wave Theremin,False,,,,,,,
+Hypersynth,Hypersynth Hypersynth Xenophone,False,,,,,,,
+IK Multimedia,IK Multimedia SampleTank 2,False,,,,,,,
+IK Multimedia,IK Multimedia Sonik Synth 2,False,,,,,,,
+Image Line,Image Line FL Studio,True,http://dbpedia.org/resource/FL_Studio,http://en.wikipedia.org/wiki/FL_Studio,,,Synthesizer,,
+Image Line,Image Line SimSynth,False,,,,,,,
+JoMoX,JoMoX AirBase 99,False,,,,,,,
+JoMoX,JoMoX Resonator Neuronium,False,,,,,,,
+JoMoX,JoMoX SunSyn,False,,,,,,,
+JoMoX,JoMoX XBase 09,False,,,,,,,
+JoMoX,JoMoX Xbase 999,False,,,,,,,
+Kawai,Kawai K11,True,http://dbpedia.org/resource/K11,http://en.wikipedia.org/wiki/K11,,,Synthesizer,,
+Kawai,Kawai K1iir,False,,,,,,,
+Kawai,Kawai K1m,False,,,,,,,
+Kawai,Kawai K3,True,http://dbpedia.org/resource/K3,http://en.wikipedia.org/wiki/K3,,,Synthesizer,,
+Kawai,Kawai K4r,False,,,,,,,
+Kawai,Kawai K5000,True,http://dbpedia.org/resource/Kawai_K5000,http://en.wikipedia.org/wiki/Kawai_K5000,1996,Digital,Synthesizer,PCM Subtractive synthesis and Additive synthesis,32
+Kawai,Kawai K5m,False,,,,,,,
+Kawai,Kawai KC20,False,,,,,,,
+Kawai,Kawai R-100,True,http://dbpedia.org/resource/Kawai_R-100,http://en.wikipedia.org/wiki/Kawai_R-100,1987,,DrumMachine,ROM,8
+Kawai,Kawai SX-210,False,,,,,,,
+Kawai,Kawai SX-240,False,,,,,,,
+Kawai,Kawai XD-5,True,http://dbpedia.org/resource/Kawai_XD-5,http://en.wikipedia.org/wiki/Kawai_XD-5,1989,,DrumMachine,"ROM, Vector synthesis",16
+Korg,Korg 01/W,True,http://dbpedia.org/resource/Korg_01/W,http://en.wikipedia.org/wiki/Korg_01/W,1991,Digital,Synthesizer,Digital synthesizer,32
+Korg,Korg 707,True,http://dbpedia.org/resource/707,http://en.wikipedia.org/wiki/707,,,Synthesizer,,
+Korg,Korg 900PS Preset Synthesizer,False,,,,,,,
+Korg,Korg DDD-1,True,http://dbpedia.org/resource/Korg_DDD-1,http://en.wikipedia.org/wiki/Korg_DDD-1,1986,,DrumMachine,,18
+Korg,Korg DDD-5,False,,,,,,,
+Korg,Korg DDM-110,False,,,,,,,
+Korg,Korg Delta,True,http://dbpedia.org/resource/Delta,http://en.wikipedia.org/wiki/Delta,,,Synthesizer,,
+Korg,Korg DS-8,True,http://dbpedia.org/resource/Korg_DS-8,http://en.wikipedia.org/wiki/Korg_DS-8,1987,Digital,Synthesizer,FM Synthesizer,8
+Korg,Korg DSS-1,True,http://dbpedia.org/resource/Korg_DSS-1,http://en.wikipedia.org/wiki/Korg_DSS-1,1986,,Sampler,Digital synthesizer,8
+Korg,Korg DVP-1,True,http://dbpedia.org/resource/Korg_DVP-1,http://en.wikipedia.org/wiki/Korg_DVP-1,,,Synthesizer,,
+Korg,Korg DW-6000,True,http://dbpedia.org/resource/Korg_DW-6000,http://en.wikipedia.org/wiki/Korg_DW-6000,1985,Hybrid,Synthesizer,Analog/digital hybrid using subtractive synthesis,6
+Korg,Korg DW-8000,True,http://dbpedia.org/resource/Korg_DW-8000,http://en.wikipedia.org/wiki/Korg_DW-8000,1985,Hybrid,Synthesizer,Analog using digital oscillators with sampled waveforms,8
+Korg,Korg ElecTribe A (EA-1),False,,,,,,,
+Korg,Korg ElecTribe M (EM-1),False,,,,,,,
+Korg,Korg ElecTribe MX (EMX-1),False,,,,,,,
+Korg,Korg ElecTribe R (ER-1),False,,,,,,,
+Korg,Korg ElecTribe S (ES-1),False,,,,,,,
+Korg,Korg ElecTribe SX (ESX-1),False,,,,,,,
+Korg,Korg KAOSS Pad (KP1),False,,,,,,,
+Korg,Korg KARMA,True,http://dbpedia.org/resource/Korg_KARMA,http://en.wikipedia.org/wiki/Korg_KARMA,2001,,Synthesizer,Hyper Integrated,62
+Korg,Korg KingKORG,False,,,,,,,
+Korg,Korg KPR-77,False,,,,,,,
+Korg,Korg Lambda ES50,False,,,,,,,
+Korg,Korg Legacy Collection,True,http://dbpedia.org/resource/Korg_Legacy_Collection,,,,Synthesizer,,
+Korg,Korg M1,True,http://dbpedia.org/resource/Korg_M1,http://en.wikipedia.org/wiki/Korg_M1,1988,Digital,Synthesizer,Digital synthesizer,16
+Korg,Korg M3,True,http://dbpedia.org/resource/Korg_M3,http://en.wikipedia.org/wiki/Korg_M3,2007,Digital,Synthesizer,Sampler (musical instrument),60
+Korg,Korg M50,True,http://dbpedia.org/resource/M50,http://en.wikipedia.org/wiki/M50,,,Synthesizer,,
+Korg,Korg Maxi-Korg 800DV,False,,,,,,,
+Korg,Korg Micro-X,False,,,,,,,
+Korg,Korg microKorg,False,,,,,,,
+Korg,Korg MicroKorg XL,False,,,,,,,
+Korg,Korg MicroStation,True,http://dbpedia.org/resource/MicroStation,http://en.wikipedia.org/wiki/MicroStation,,,Synthesizer,,
+Korg,Korg Minilogue,True,http://dbpedia.org/resource/Korg_Minilogue,http://en.wikipedia.org/wiki/Korg_Minilogue,2016,Analog,Synthesizer,Analog subtractive,4
+Korg,Korg Minipops 120,False,,,,,,,
+Korg,Korg MiniPops 35 (MP-35),False,,,,,,,
+Korg,Korg Mono/Poly,True,http://dbpedia.org/resource/Korg_Mono/Poly,http://en.wikipedia.org/wiki/Korg_Mono/Poly,1981,Analog,Synthesizer,Subtractive synthesis,4
+Korg,Korg MS2000,True,http://dbpedia.org/resource/Korg_MS2000,http://en.wikipedia.org/wiki/Korg_MS2000,2000,Digital,Synthesizer,Analog modeling synthesizer,4
+Korg,Korg N364,True,http://dbpedia.org/resource/Korg_N364/264,http://en.wikipedia.org/wiki/Korg_N364/264,1996,Digital,Synthesizer,PCM rompler,64
+Korg,Korg Poly-61,True,http://dbpedia.org/resource/Korg_Poly-61,http://en.wikipedia.org/wiki/Korg_Poly-61,1982,Analog,Synthesizer,Subtractive synthesis,6
+Korg,Korg Poly-800,True,http://dbpedia.org/resource/Korg_Poly-800,http://en.wikipedia.org/wiki/Korg_Poly-800,1983,Analog,Synthesizer,Subtractive synthesis,8
+Korg,Korg Polyphonic Ensemble P,True,http://dbpedia.org/resource/Korg_Polyphonic_Ensemble_P,http://en.wikipedia.org/wiki/Korg_Polyphonic_Ensemble_P,1976,Analog,Synthesizer,Subtractive synthesis,Full
+Korg,Korg Polyphonic Ensemble S,False,,,,,,,
+Korg,Korg PolySix,False,,,,,,,
+Korg,Korg Prophecy,True,http://dbpedia.org/resource/Korg_Prophecy,http://en.wikipedia.org/wiki/Korg_Prophecy,1995,Digital,Synthesizer,Modulation,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+Korg,Korg PS-3100,False,,,,,,,
+Korg,Korg PS-3200,False,,,,,,,
+Korg,Korg PS-3300,True,http://dbpedia.org/resource/Korg_PS-3300,http://en.wikipedia.org/wiki/Korg_PS-3300,1977,Analog,Synthesizer,Subtractive synthesis,48
+Korg,Korg R3,True,http://dbpedia.org/resource/R3,http://en.wikipedia.org/wiki/R3,,,Synthesizer,,
+Korg,Korg Radias,False,,,,,,,
+Korg,Korg Rhythm 55 (KR-55),False,,,,,,,
+Korg,Korg RK-100S,False,,,,,,,
+Korg,Korg S3,True,http://dbpedia.org/resource/S3,http://en.wikipedia.org/wiki/S3,,,Synthesizer,,
+Korg,Korg SM-20,False,,,,,,,
+Korg,Korg Symphony-03,False,,,,,,,
+Korg,Korg T3,True,http://dbpedia.org/resource/T3,http://en.wikipedia.org/wiki/T3,,,Synthesizer,,
+Korg,Korg TR-88,False,,,,,,,
+Korg,Korg Trident,True,http://dbpedia.org/resource/List_of_Korg_products,http://en.wikipedia.org/wiki/List_of_Korg_products,,Digital,Synthesizer,FM synthesis,
+Korg,Korg Trinity,True,http://dbpedia.org/resource/Korg_Trinity,http://en.wikipedia.org/wiki/Korg_Trinity,1995,Hybrid,Synthesizer,PCM-based subtractive,32
+Korg,Korg Triton,True,http://dbpedia.org/resource/Korg_Triton,http://en.wikipedia.org/wiki/Korg_Triton,,,Sampler,,
+Korg,Korg VC-10 Vocoder,False,,,,,,,
+Korg,Korg Volca Beats,True,http://dbpedia.org/resource/Volca_Beats,http://en.wikipedia.org/wiki/Volca_Beats,,Hybrid,DrumMachine,Analogue and sample based synthesis,"Ten voices, one per track"
+Korg,Korg Volca Keys,True,http://dbpedia.org/resource/Volca_Keys,http://en.wikipedia.org/wiki/Volca_Keys,,Analog,Synthesizer,Subtractive synthesis,Three
+Korg,Korg Wavestation,True,http://dbpedia.org/resource/Korg_Wavestation,http://en.wikipedia.org/wiki/Korg_Wavestation,1990,Digital,Synthesizer,Digital vector synthesis with Wave Sequencing,32
+Korg,Korg Wavestation A/D,False,,,,,,,
+Korg,Korg Wavestation SR,False,,,,,,,
+Korg,Korg X3,True,http://dbpedia.org/resource/Korg_X3,http://en.wikipedia.org/wiki/Korg_X3,1993,Digital,Synthesizer,Digital synthesizer,32
+Korg,Korg X50,True,http://dbpedia.org/resource/Korg_Triton,http://en.wikipedia.org/wiki/Korg_Triton,,,Sampler,,
+Korg,Korg X5D,True,http://dbpedia.org/resource/List_of_Korg_products,http://en.wikipedia.org/wiki/List_of_Korg_products,,Digital,Synthesizer,FM synthesis,
+Korg,Korg Z1,True,http://dbpedia.org/resource/Korg_Z1,http://en.wikipedia.org/wiki/Korg_Z1,1997,Digital,Synthesizer,Analog modeling synthesizer,12
+Kurzweil,Kurzweil K1000,True,http://dbpedia.org/resource/K1000,http://en.wikipedia.org/wiki/K1000,,,Synthesizer,,
+Kurzweil,Kurzweil K150,True,http://dbpedia.org/resource/K150,http://en.wikipedia.org/wiki/K150,,,Synthesizer,,
+Kurzweil,Kurzweil K2000,True,http://dbpedia.org/resource/Kurzweil_K2000,http://en.wikipedia.org/wiki/Kurzweil_K2000,1991,,Sampler,Sampler (musical instrument),24
+Kurzweil,Kurzweil K250,True,http://dbpedia.org/resource/Kurzweil_K250,http://en.wikipedia.org/wiki/Kurzweil_K250,,,Sampler,,
+Kurzweil,Kurzweil K2500,True,http://dbpedia.org/resource/Chevrolet_C/K,http://en.wikipedia.org/wiki/Chevrolet_C/K,,,Synthesizer,,
+Kurzweil,Kurzweil K2600,False,,,,,,,
+Kurzweil,Kurzweil PC2R,False,,,,,,,
+Kurzweil,Kurzweil PC88MX,False,,,,,,,
+Lennar Digital,Lennar Digital Sylenth1,False,,,,,,,
+Linn Electronics,Linn Electronics Linn 9000,True,http://dbpedia.org/resource/Linn_9000,http://en.wikipedia.org/wiki/Linn_9000,1984,,DrumMachine,8,polyphonic 13 voices
+Linn Electronics,Linn Electronics LinnDrum,True,http://dbpedia.org/resource/LinnDrum,http://en.wikipedia.org/wiki/LinnDrum,1982,,DrumMachine,8,polyphonic 12 voices
+Linn Electronics,Linn Electronics LM-1 Drum Computer,False,,,,,,,
+Logan / Hohner,Logan / Hohner String Melody II,False,,,,,,,
+MAM,MAM ADX1,False,,,,,,,
+Manikin-Electronic,Manikin-Electronic Memotron M2K,False,,,,,,,
+Marion Systems,Marion Systems MSR-2,False,,,,,,,
+Modal Electronics,Modal Electronics Modal 001,False,,,,,,,
+Moog,Moog Memorymoog,True,http://dbpedia.org/resource/Memorymoog,http://en.wikipedia.org/wiki/Memorymoog,1982,Analog,Synthesizer,Subtractive synthesis,6
+Moog,Moog Opus-3,True,http://dbpedia.org/resource/Lithuanian_National_Radio_and_Television,http://en.wikipedia.org/wiki/Lithuanian_National_Radio_and_Television,,,Synthesizer,,
+Moog,Moog Polymoog 203a,False,,,,,,,
+Moog,Moog Sonic Six,True,http://dbpedia.org/resource/Moog_Sonic_Six,http://en.wikipedia.org/wiki/Moog_Sonic_Six,1972,Analog,Synthesizer,Subtractive synthesis,2
+Movement MCS,Movement MCS Drum Computer MK1,False,,,,,,,
+Mutable Instruments,Mutable Instruments Ambika,True,http://dbpedia.org/resource/Ambika,http://en.wikipedia.org/wiki/Ambika,,,Synthesizer,,
+Mutronics,Mutronics MIDI Mutator,False,,,,,,,
+Native Instruments,Native Instruments Absynth,False,,,,,,,
+Native Instruments,Native Instruments B4,True,http://dbpedia.org/resource/B4,http://en.wikipedia.org/wiki/B4,,,Synthesizer,,
+Native Instruments,Native Instruments Battery,True,http://dbpedia.org/resource/Battery,http://en.wikipedia.org/wiki/Batterie,,,Synthesizer,,
+Native Instruments,Native Instruments Battery 2,False,,,,,,,
+Native Instruments,Native Instruments Dynamo,True,http://dbpedia.org/resource/Dynamo,http://en.wikipedia.org/wiki/Dynamo,,,Synthesizer,,
+Native Instruments,Native Instruments Elektrik Piano,True,http://dbpedia.org/resource/Elektrik_Piano,http://en.wikipedia.org/wiki/Elektrik_Piano,,,Synthesizer,,
+Native Instruments,Native Instruments FM7,True,http://dbpedia.org/resource/FM7,http://en.wikipedia.org/wiki/FM7,,,Synthesizer,,
+Native Instruments,Native Instruments FM8,False,,,,,,,
+Native Instruments,Native Instruments Intakt,False,,,,,,,
+Native Instruments,Native Instruments Kompakt,False,,,,,,,
+Native Instruments,Native Instruments Kontakt,True,http://dbpedia.org/resource/Kontakt,http://en.wikipedia.org/wiki/Kontakt,,,Synthesizer,,
+Native Instruments,Native Instruments Massive,True,http://dbpedia.org/resource/Massive,http://en.wikipedia.org/wiki/Massive,,,Synthesizer,,
+Native Instruments,Native Instruments Pro-52,False,,,,,,,
+Native Instruments,Native Instruments Pro-53,False,,,,,,,
+Native Instruments,Native Instruments Pro-Five,False,,,,,,,
+Native Instruments,Native Instruments Reaktor,True,http://dbpedia.org/resource/Reaktor,http://en.wikipedia.org/wiki/Reaktor,,,Synthesizer,Granular synthesis,
+Native Instruments,Native Instruments Vokator,False,,,,,,,
+New England Digital,New England Digital Synclavier,True,http://dbpedia.org/resource/Synclavier,http://en.wikipedia.org/wiki/Synclavier,,,Sampler,Additive synthesis,
+Novation,Novation A-Station,False,,,,,,,
+Novation,Novation Circuit,True,http://dbpedia.org/resource/Circuit,http://en.wikipedia.org/wiki/Circuit,,,Synthesizer,,
+Novation,Novation D-Station,False,,,,,,,
+Novation,Novation Drum Station,False,,,,,,,
+Novation,Novation Drum Station v2,False,,,,,,,
+Novation,Novation K-Station,False,,,,,,,
+Novation,Novation KS4,True,http://dbpedia.org/resource/KS_4,http://en.wikipedia.org/wiki/KS-4_(disambiguation),,,Synthesizer,,
+Novation,Novation Nova,True,http://dbpedia.org/resource/Nova,http://en.wikipedia.org/wiki/Nova,,,Synthesizer,,
+Novation,Novation Peak,True,http://dbpedia.org/resource/Peak,http://en.wikipedia.org/wiki/Peak,,,Synthesizer,,
+Novation,Novation SuperNova,True,http://dbpedia.org/resource/Supernova,http://en.wikipedia.org/wiki/Supernova,,,Synthesizer,,
+Novation,Novation Ultranova,False,,,,,,,
+Novation,Novation X-station,False,,,,,,,
+Novation,Novation XioSynth,False,,,,,,,
+Oberheim,Oberheim DMX,True,http://dbpedia.org/resource/Oberheim_DMX,http://en.wikipedia.org/wiki/Oberheim_DMX,,,DrumMachine,,
+Oberheim,Oberheim DPX1,False,,,,,,,
+Oberheim,Oberheim DX,True,http://dbpedia.org/resource/Oberheim_DMX,http://en.wikipedia.org/wiki/Oberheim_DMX,,,DrumMachine,,
+Oberheim,Oberheim Eight Voice,False,,,,,,,
+Oberheim,Oberheim Four Voice,False,,,,,,,
+Oberheim,Oberheim Matrix 1000,True,http://dbpedia.org/resource/Oberheim_Matrix_synthesizers,http://en.wikipedia.org/wiki/Oberheim_Matrix_synthesizers,,Analog,Synthesizer,Subtractive synthesis,
+Oberheim,Oberheim Matrix 12,True,http://dbpedia.org/resource/Oberheim_Matrix_synthesizers,http://en.wikipedia.org/wiki/Oberheim_Matrix_synthesizers,,Analog,Synthesizer,Subtractive synthesis,
+Oberheim,Oberheim Matrix 6R,False,,,,,,,
+Oberheim,Oberheim OB-12,False,,,,,,,
+Oberheim,Oberheim OB-8,True,http://dbpedia.org/resource/Oberheim_OB-8,http://en.wikipedia.org/wiki/Oberheim_OB-8,1983,Analog,Synthesizer,Analogue electronics,8
+Oberheim,Oberheim OB-Mx,False,,,,,,,
+Oberheim,Oberheim OB-SX,True,http://dbpedia.org/resource/Oberheim_OB-SX,http://en.wikipedia.org/wiki/Oberheim_OB-SX,1980,Analog,Synthesizer,,24
+Oberheim,Oberheim OB-X,True,http://dbpedia.org/resource/Oberheim_OB-X,http://en.wikipedia.org/wiki/Oberheim_OB-X,1979,Analog,Synthesizer,Subtractive synthesis,46
+Oberheim,Oberheim OB-Xa,True,http://dbpedia.org/resource/Oberheim_OB-Xa,http://en.wikipedia.org/wiki/Oberheim_OB-Xa,1980,Analog,Synthesizer,Subtractive synthesis,46
+Oberheim,Oberheim Two Voice,True,http://dbpedia.org/resource/Oberheim_TVS-1A,http://en.wikipedia.org/wiki/Oberheim_TVS-1A,1975,Analog,Synthesizer,Subtractive synthesis,2
+Oberheim,Oberheim Two Voice Pro,False,,,,,,,
+Oberheim,Oberheim Xpander,True,http://dbpedia.org/resource/Oberheim_Xpander,http://en.wikipedia.org/wiki/Oberheim_Xpander,1984,Analog,Synthesizer,Frequency modulation synthesis,6
+Octave,Octave The Cat,True,http://dbpedia.org/resource/The_Cat,http://en.wikipedia.org/wiki/The_Cat,,,Synthesizer,,
+Octave Plateau,Octave Plateau CATSTICK,False,,,,,,,
+Octave Plateau,Octave Plateau Voyetra 8,False,,,,,,,
+PAiA,PAiA Stringz &rsquo;n&rsquo; Thingz,False,,,,,,,
+Peavey,Peavey DPM SP Sample Playback Synthesizer,False,,,,,,,
+Philips,Philips PMC 100,False,,,,,,,
+Powertran,Powertran Transendent DPX,False,,,,,,,
+PPG,PPG Realizer,True,http://dbpedia.org/resource/Realizer,http://en.wikipedia.org/wiki/Realizer,,,Synthesizer,,
+PPG,PPG Wave 2,True,http://dbpedia.org/resource/Second_wave,http://en.wikipedia.org/wiki/Second_wave,,,Synthesizer,,
+Propellerhead Software,Propellerhead Software Reason,True,http://dbpedia.org/resource/Reason,http://en.wikipedia.org/wiki/Reason,,,Synthesizer,,
+Propellerhead Software,Propellerhead Software ReBirth RB-338,True,http://dbpedia.org/resource/ReBirth_RB-338,http://en.wikipedia.org/wiki/ReBirth_RB-338,,,Synthesizer,,
+Prosoniq,Prosoniq Orange Vocoder,False,,,,,,,
+Quasimidi,Quasimidi PolyMorph,False,,,,,,,
+Quasimidi,Quasimidi Quasar,True,http://dbpedia.org/resource/Quasar,http://en.wikipedia.org/wiki/Quasar,,,Synthesizer,,
+Quasimidi,Quasimidi Rave-O-Lution 309,True,http://dbpedia.org/resource/Quasimidi_Rave-O-Lution_309,http://en.wikipedia.org/wiki/Quasimidi_Rave-O-Lution_309,1996,Digital,Synthesizer,Sample-based synthesis,32
+Quasimidi,Quasimidi Raven,True,http://dbpedia.org/resource/Quasimidi_Raven,http://en.wikipedia.org/wiki/Quasimidi_Raven,1996,Digital,Synthesizer,"ROM, Subtractive",24
+Quasimidi,Quasimidi Sirius,True,http://dbpedia.org/resource/Quasimidi_Sirius,http://en.wikipedia.org/wiki/Quasimidi_Sirius,,Analog,Synthesizer,,
+Quasimidi,Quasimidi Technox,False,,,,,,,
+Radikal Technologies,Radikal Technologies Accelerator,True,http://dbpedia.org/resource/Accelerator,http://en.wikipedia.org/wiki/Accelerator,,,Synthesizer,,
+Red Sound Systems,Red Sound Systems DarkStar,False,,,,,,,
+Red Sound Systems,Red Sound Systems Elevata,False,,,,,,,
+Rhodes,Rhodes Chroma,True,http://dbpedia.org/resource/Rhodes_Chroma,http://en.wikipedia.org/wiki/Rhodes_Chroma,1982,Analog,Synthesizer,Subtractive synthesis,polyphonic 8 or 16
+Rhodes,Rhodes Chroma Polaris,False,,,,,,,
+Roland,Roland Alpha Juno 2,True,http://dbpedia.org/resource/Roland_Alpha_Juno,http://en.wikipedia.org/wiki/Roland_Alpha_Juno,1985,Analog,Synthesizer,Subtractive synthesis,6
+Roland,Roland Alpha Juno-1,True,http://dbpedia.org/resource/Roland_Alpha_Juno,http://en.wikipedia.org/wiki/Roland_Alpha_Juno,1985,Analog,Synthesizer,Subtractive synthesis,6
+Roland,Roland CMU-800,False,,,,,,,
+Roland,Roland CR-68,False,,,,,,,
+Roland,Roland CR-78,True,http://dbpedia.org/resource/Roland_CR-78,http://en.wikipedia.org/wiki/Roland_CR-78,,Analog,DrumMachine,,
+Roland,Roland CR-8000,True,http://dbpedia.org/resource/CR-8000,http://en.wikipedia.org/wiki/CR-8000,,,Synthesizer,,
+Roland,Roland D-110,False,,,,,,,
+Roland,Roland D-20,True,http://dbpedia.org/resource/D20,http://en.wikipedia.org/wiki/D20,,,Synthesizer,,
+Roland,Roland D-50,True,http://dbpedia.org/resource/Roland_D-50,http://en.wikipedia.org/wiki/Roland_D-50,April 1987- 1991,Digital,Synthesizer,Digital Sample-based Subtractive,16
+Roland,Roland D-70,True,http://dbpedia.org/resource/Roland_D-70,http://en.wikipedia.org/wiki/Roland_D-70,1990,Digital,Synthesizer,ROMpler and DLM,30
+Roland,Roland D2,True,http://dbpedia.org/resource/Roland_D2,http://en.wikipedia.org/wiki/Roland_D2,2001,,Synthesizer,,64
+Roland,Roland DJ-70,True,http://dbpedia.org/resource/Roland_DJ-70,http://en.wikipedia.org/wiki/Roland_DJ-70,1992,,Sampler,Read-only memory,24
+Roland,Roland EG-101,False,,,,,,,
+Roland,Roland EM-101,False,,,,,,,
+Roland,Roland Fantom-S,False,,,,,,,
+Roland,Roland Fantom-X,True,http://dbpedia.org/resource/Roland_Fantom-X,http://en.wikipedia.org/wiki/Roland_Fantom-X,2004,Digital,Synthesizer,Digital synthesizer,128
+Roland,Roland Gaia SH-01,False,,,,,,,
+Roland,Roland GR-300,True,http://dbpedia.org/resource/Roland_GR-300,http://en.wikipedia.org/wiki/Roland_GR-300,,,Synthesizer,,
+Roland,Roland GR-700,False,,,,,,,
+Roland,Roland HS-60,False,,,,,,,
+Roland,Roland JD-800,True,http://dbpedia.org/resource/Roland_JD-800,http://en.wikipedia.org/wiki/Roland_JD-800,1991,Digital,Synthesizer,Digital synthesizer,6
+Roland,Roland JD-990,True,http://dbpedia.org/resource/Roland_JD-990,http://en.wikipedia.org/wiki/Roland_JD-990,1993,Digital,Synthesizer,Digital synthesizer,24
+Roland,Roland JP-8000,True,http://dbpedia.org/resource/Roland_JP-8000,http://en.wikipedia.org/wiki/Roland_JP-8000,1996,Digital,Synthesizer,Analog modeling synthesizer,8
+Roland,Roland JP-8080,True,http://dbpedia.org/resource/Roland_JP-8000,http://en.wikipedia.org/wiki/Roland_JP-8000,1996,Digital,Synthesizer,Analog modeling synthesizer,8
+Roland,Roland Juno-106,True,http://dbpedia.org/resource/Roland_Juno-106,http://en.wikipedia.org/wiki/Roland_Juno-106,February 1984 – 1988,Analog,Synthesizer,Subtractive synthesis,6
+Roland,Roland Juno-6,True,http://dbpedia.org/resource/Roland_Juno-60,http://en.wikipedia.org/wiki/Roland_Juno-60,1982,Analog,Synthesizer,Subtractive synthesis,6
+Roland,Roland Juno-60,True,http://dbpedia.org/resource/Roland_Juno-60,http://en.wikipedia.org/wiki/Roland_Juno-60,1982,Analog,Synthesizer,Subtractive synthesis,6
+Roland,Roland Juno-D,True,http://dbpedia.org/resource/Roland_Juno-D,http://en.wikipedia.org/wiki/Roland_Juno-D,2005,Digital,Synthesizer,Subtractive synthesis,64
+Roland,Roland Juno-Di,False,,,,,,,
+Roland,Roland Juno-DS61,False,,,,,,,
+Roland,Roland Juno-G,True,http://dbpedia.org/resource/Roland_Juno-G,http://en.wikipedia.org/wiki/Roland_Juno-G,2006,Digital,Synthesizer,Subtractive synthesis,128
+Roland,Roland Juno-Stage,False,,,,,,,
+Roland,Roland Jupiter-4,True,http://dbpedia.org/resource/Roland_Jupiter-4,http://en.wikipedia.org/wiki/Roland_Jupiter-4,1978,Analog,Synthesizer,Subtractive synthesis,4
+Roland,Roland Jupiter-6,True,http://dbpedia.org/resource/Roland_Jupiter-6,http://en.wikipedia.org/wiki/Roland_Jupiter-6,January 1983 - 1985,Analog,Synthesizer,Subtractive synthesis,6
+Roland,Roland Jupiter-8,True,http://dbpedia.org/resource/Roland_Jupiter-8,http://en.wikipedia.org/wiki/Roland_Jupiter-8,1981,Analog,Synthesizer,Subtractive synthesis,8
+Roland,Roland Jupiter-80,True,http://dbpedia.org/resource/Roland_Jupiter-80,http://en.wikipedia.org/wiki/Roland_Jupiter-80,2011,Analog,Synthesizer,Analog modeling synthesizer,256
+Roland,Roland Jupiter-XM,False,,,,,,,
+Roland,Roland JV-1000,False,,,,,,,
+Roland,Roland JV-1010,False,,,,,,,
+Roland,Roland JV-1080,True,http://dbpedia.org/resource/Roland_JV-1080,http://en.wikipedia.org/wiki/Roland_JV-1080,1994,Digital,Synthesizer,Sample-based synthesis,64
+Roland,Roland JV-2080,True,http://dbpedia.org/resource/Roland_JV-2080,http://en.wikipedia.org/wiki/Roland_JV-2080,1997,Digital,Synthesizer,Sample-based synthesis,64
+Roland,Roland JV-30,False,,,,,,,
+Roland,Roland JV-80,False,,,,,,,
+Roland,Roland JV-880,False,,,,,,,
+Roland,Roland JV-90,True,http://dbpedia.org/resource/Roland_Corporation,http://en.wikipedia.org/wiki/Roland_Corporation,,,Synthesizer,,
+Roland,Roland JW-50,False,,,,,,,
+Roland,Roland JX-1,True,http://dbpedia.org/resource/Roland_JX-1,http://en.wikipedia.org/wiki/Roland_JX-1,1991,,Synthesizer,,24
+Roland,Roland JX-10,True,http://dbpedia.org/resource/Roland_JX-10,http://en.wikipedia.org/wiki/Roland_JX-10,1986,Analog,Synthesizer,Subtractive synthesis,12
+Roland,Roland JX-305,True,http://dbpedia.org/resource/Roland_JX-305,http://en.wikipedia.org/wiki/Roland_JX-305,,Digital,Synthesizer,,
+Roland,Roland JX-3P,True,http://dbpedia.org/resource/Roland_JX-3P,http://en.wikipedia.org/wiki/Roland_JX-3P,1983,Analog,Synthesizer,Subtractive synthesis,6
+Roland,Roland JX-8P,True,http://dbpedia.org/resource/Roland_JX-8P,http://en.wikipedia.org/wiki/Roland_JX-8P,1985,Analog,Synthesizer,Subtractive synthesis,6
+Roland,Roland MC-09,True,http://dbpedia.org/resource/Roland_MC-09,http://en.wikipedia.org/wiki/Roland_MC-09,2002,Digital,Synthesizer,digital modelling synthesizer,"monophonic, rhythm: 3 tones"
+Roland,Roland MC-303,True,http://dbpedia.org/resource/Roland_MC-303,http://en.wikipedia.org/wiki/Roland_MC-303,1996,Digital,Synthesizer,Sample-based synthesis,28
+Roland,Roland MC-307,True,http://dbpedia.org/resource/Roland_MC-307,http://en.wikipedia.org/wiki/Roland_MC-307,1999,Digital,Synthesizer,Sample-based synthesis,64
+Roland,Roland MC-505,True,http://dbpedia.org/resource/Roland_MC-505,http://en.wikipedia.org/wiki/Roland_MC-505,1998,Digital,Synthesizer,Sample-based synthesis,64
+Roland,Roland MC-808,True,http://dbpedia.org/resource/Roland_MC-808,http://en.wikipedia.org/wiki/Roland_MC-808,March 2006&ndash;Early 2008,Digital,Synthesizer,Sampler (musical instrument),128
+Roland,Roland MC-909,True,http://dbpedia.org/resource/Roland_MC-909,http://en.wikipedia.org/wiki/Roland_MC-909,2002,Digital,Synthesizer,sampler,64
+Roland,Roland MKS-10,False,,,,,,,
+Roland,Roland MKS-30,False,,,,,,,
+Roland,Roland MKS-50,False,,,,,,,
+Roland,Roland MKS-7,False,,,,,,,
+Roland,Roland MKS-70,False,,,,,,,
+Roland,Roland MKS-80,True,http://dbpedia.org/resource/Roland_MKS-80,http://en.wikipedia.org/wiki/Roland_MKS-80,1984,Analog,Synthesizer,Subtractive synthesis,8
+Roland,Roland MT-32,True,http://dbpedia.org/resource/Roland_MT-32,http://en.wikipedia.org/wiki/Roland_MT-32,,Digital,Synthesizer,Subtractive synthesis,
+Roland,Roland R-70,True,http://dbpedia.org/resource/R70,http://en.wikipedia.org/wiki/R70,,,Synthesizer,,
+Roland,Roland R-8,True,http://dbpedia.org/resource/Roland_R-8,http://en.wikipedia.org/wiki/Roland_R-8,1989,,DrumMachine,ROM,32
+Roland,Roland Rhythm 330,False,,,,,,,
+Roland,Roland RS-09,False,,,,,,,
+Roland,Roland RS-101,False,,,,,,,
+Roland,Roland RS-202 Strings,False,,,,,,,
+Roland,Roland RS-50,False,,,,,,,
+Roland,Roland RS-505 Paraphonic,False,,,,,,,
+Roland,Roland S-10,True,http://dbpedia.org/resource/Roland_S-10,http://en.wikipedia.org/wiki/Roland_S-10,1987,,Sampler,Analog synthesizer,8
+Roland,Roland S-220,True,http://dbpedia.org/resource/Roland_S-10,http://en.wikipedia.org/wiki/Roland_S-10,1987,,Sampler,Analog synthesizer,8
+Roland,Roland S-330,True,http://dbpedia.org/resource/S330,http://en.wikipedia.org/wiki/S330,,,Synthesizer,,
+Roland,Roland S-50,True,http://dbpedia.org/resource/Roland_S-50,http://en.wikipedia.org/wiki/Roland_S-50,1986,,Sampler,Samples,16
+Roland,Roland S-770,False,,,,,,,
+Roland,Roland SC-88,False,,,,,,,
+Roland,Roland SH-201,True,http://dbpedia.org/resource/Roland_SH-201,http://en.wikipedia.org/wiki/Roland_SH-201,June 2006&ndash;March 2010,Digital,Synthesizer,Analog modeling synthesizer,10
+Roland,Roland SH-32,True,http://dbpedia.org/resource/List_of_highways_numbered_32,http://en.wikipedia.org/wiki/List_of_highways_numbered_32,,,Synthesizer,,
+Roland,Roland SH-7,True,http://dbpedia.org/resource/SH7,http://en.wikipedia.org/wiki/SH7,,,Synthesizer,,
+Roland,Roland SonicCell,False,,,,,,,
+Roland,Roland SP-808,True,http://dbpedia.org/resource/Roland_SP-808,http://en.wikipedia.org/wiki/Roland_SP-808,,,Sampler,,
+Roland,Roland SVC-350 Vocoder,False,,,,,,,
+Roland,Roland TR-505,True,http://dbpedia.org/resource/Roland_TR-505,http://en.wikipedia.org/wiki/Roland_TR-505,,Digital,DrumMachine,Sample-based synthesis,
+Roland,Roland TR-606,True,http://dbpedia.org/resource/Roland_TR-606,http://en.wikipedia.org/wiki/Roland_TR-606,1981,Analog,DrumMachine,Subtractive synthesis,7
+Roland,Roland TR-626,False,,,,,,,
+Roland,Roland TR-66,False,,,,,,,
+Roland,Roland TR-707,True,http://dbpedia.org/resource/Roland_TR-707,http://en.wikipedia.org/wiki/Roland_TR-707,1985,Digital,DrumMachine,Sample-based synthesis,10
+Roland,Roland TR-727,True,http://dbpedia.org/resource/Roland_TR-707,http://en.wikipedia.org/wiki/Roland_TR-707,1985,Digital,DrumMachine,Sample-based synthesis,10
+Roland,Roland TR-808,True,http://dbpedia.org/resource/Roland_TR-808,http://en.wikipedia.org/wiki/Roland_TR-808,1980,Analog,DrumMachine,Subtractive synthesis,12
+Roland,Roland TR-909,True,http://dbpedia.org/resource/Roland_TR-909,http://en.wikipedia.org/wiki/Roland_TR-909,1983,Digital,DrumMachine,Digital synthesizer,11
+Roland,Roland U-110,True,http://dbpedia.org/resource/Roland_U-110,http://en.wikipedia.org/wiki/Roland_U-110,,,Sampler,,
+Roland,Roland U-20,True,http://dbpedia.org/resource/Roland_U-20,http://en.wikipedia.org/wiki/Roland_U-20,1989,Digital,Synthesizer,PCM sample based,30
+Roland,Roland V-Synth,True,http://dbpedia.org/resource/Roland_V-Synth,http://en.wikipedia.org/wiki/Roland_V-Synth,V-Synth GT: 2007,Analog,Synthesizer,"ROMpler, Sampling, SuperSaw, Virtual Analog",24
+Roland,Roland VP-550,False,,,,,,,
+Roland,Roland VP-770,False,,,,,,,
+Roland,Roland VP-9000,False,,,,,,,
+Roland,Roland W-30,True,http://dbpedia.org/resource/Roland_W-30,http://en.wikipedia.org/wiki/Roland_W-30,1989,,Sampler,Samples,16
+Roland,Roland XP-10,True,http://dbpedia.org/resource/Roland_XP-30,http://en.wikipedia.org/wiki/Roland_XP-30,1999,Digital,Synthesizer,Sample-based synthesis,64
+Roland,Roland XP-30,True,http://dbpedia.org/resource/Roland_XP-30,http://en.wikipedia.org/wiki/Roland_XP-30,1999,Digital,Synthesizer,Sample-based synthesis,64
+Roland,Roland XP-50,True,http://dbpedia.org/resource/Roland_XP-50,http://en.wikipedia.org/wiki/Roland_XP-50,1995,Digital,Synthesizer,Sample-based synthesis,64
+Roland,Roland XP-60,False,,,,,,,
+Roland,Roland XP-80,True,http://dbpedia.org/resource/Roland_XP-80,http://en.wikipedia.org/wiki/Roland_XP-80,1996,Digital,Synthesizer,PCM-Subtractive using 8MB of PCM chip-ROM,64
+Roland,Roland XV-3080,False,,,,,,,
+Roland,Roland XV-5050,False,,,,,,,
+Roland,Roland XV-5080,False,,,,,,,
+Seer Systems,Seer Systems Reality,True,http://dbpedia.org/resource/Reality,http://en.wikipedia.org/wiki/Reality,,,Synthesizer,,
+Sequential Circuits,Sequential Circuits DrumTraks,False,,,,,,,
+Sequential Circuits,Sequential Circuits Fugue,True,http://dbpedia.org/resource/Fugue,http://en.wikipedia.org/wiki/Fugue,,,Synthesizer,,
+Sequential Circuits,Sequential Circuits Max,True,http://dbpedia.org/resource/Max,http://en.wikipedia.org/wiki/Max,,,Synthesizer,,
+Sequential Circuits,Sequential Circuits MultiTrak,False,,,,,,,
+Sequential Circuits,Sequential Circuits Prelude,True,http://dbpedia.org/resource/Prelude,http://en.wikipedia.org/wiki/Prelude,,,Synthesizer,,
+Sequential Circuits,Sequential Circuits Prophet 10,False,,,,,,,
+Sequential Circuits,Sequential Circuits Prophet 2000,True,http://dbpedia.org/resource/Prophet_2000,http://en.wikipedia.org/wiki/Prophet_2000,1985,,Sampler,Sample + Analog,8
+Sequential Circuits,Sequential Circuits Prophet 3000,False,,,,,,,
+Sequential Circuits,Sequential Circuits Prophet 5,True,http://dbpedia.org/resource/Prophet-5,http://en.wikipedia.org/wiki/Prophet-5,19771981,Analog,Synthesizer,Subtractive synthesis,10
+Sequential Circuits,Sequential Circuits Prophet 600,False,,,,,,,
+Sequential Circuits,Sequential Circuits Prophet T8,False,,,,,,,
+Sequential Circuits,Sequential Circuits Prophet VS,True,http://dbpedia.org/resource/Sequential_(company),http://en.wikipedia.org/wiki/Sequential_(company),,,Synthesizer,,
+Sequential Circuits,Sequential Circuits Six-Trak,True,http://dbpedia.org/resource/Six-Trak,http://en.wikipedia.org/wiki/Six-Trak,1984,Analog,Synthesizer,Subtractive synthesis,6
+Sequential Circuits,Sequential Circuits Split-8,True,http://dbpedia.org/resource/Split-8,http://en.wikipedia.org/wiki/Split-8,1985,Analog,Synthesizer,Subtractive synthesis,8
+Sequential Circuits,Sequential Circuits Studio 440,True,http://dbpedia.org/resource/Sequential_Circuits_Studio_440,http://en.wikipedia.org/wiki/Sequential_Circuits_Studio_440,1986,,Sampler,Sampler (musical instrument),8
+Sequential Circuits,Sequential Circuits TOM,True,http://dbpedia.org/resource/Tom,http://en.wikipedia.org/wiki/Tom,,,Synthesizer,,
+Sherman Electronics,Sherman Electronics FilterBank,False,,,,,,,
+Sherman Electronics,Sherman Electronics FilterBank 2,False,,,,,,,
+Sherman Electronics,Sherman Electronics Quad Modular Filter,False,,,,,,,
+Siel,Siel Cruise,True,http://dbpedia.org/resource/Cruise,http://en.wikipedia.org/wiki/Cruise,,,Synthesizer,,
+Siel,Siel DK600,False,,,,,,,
+Siel,Siel DK70,True,http://dbpedia.org/resource/Siel_DK70,http://en.wikipedia.org/wiki/Siel_DK70,1986,Analog,Synthesizer,Paraphonic Subtractive,8
+Siel,Siel DK700,False,,,,,,,
+Siel,Siel DK80,False,,,,,,,
+Siel,Siel Opera 6,True,http://dbpedia.org/resource/History_of_the_Opera_web_browser,http://en.wikipedia.org/wiki/History_of_the_Opera_web_browser,,,Synthesizer,,
+Siel,Siel Orchestra,True,http://dbpedia.org/resource/Siel_Orchestra,http://en.wikipedia.org/wiki/Siel_Orchestra,1979,Analog,Synthesizer,Subtractive synthesis,49
+Solton,Solton K160,False,,,,,,,
+SOMA Laboratory,SOMA Laboratory Lyra-8,False,,,,,,,
+SOMA Laboratory,SOMA Laboratory Pulsar-23,False,,,,,,,
+SoundMaster,SoundMaster Memory Rhythm SR-88,False,,,,,,,
+SoundMaster,SoundMaster Stix ST-305,False,,,,,,,
+Steinberg,Steinberg HALion,True,http://dbpedia.org/resource/HALion,http://en.wikipedia.org/wiki/HALion,,,Synthesizer,,
+Steinberg,Steinberg LM-4,False,,,,,,,
+Steinberg,Steinberg Model E,True,http://dbpedia.org/resource/Model_E,http://en.wikipedia.org/wiki/Model_E,,,Synthesizer,,
+Steinberg,Steinberg The Grand,True,http://dbpedia.org/resource/The_Grand,http://en.wikipedia.org/wiki/The_Grand,,,Synthesizer,,
+Studio Electronics,Studio Electronics Omega8,False,,,,,,,
+Suzuki,Suzuki QChord QC-1,False,,,,,,,
+Syntauri,Syntauri alphaSyntauri,False,,,,,,,
+Synthesizers. com,Synthesizers. com Portable Systems,False,,,,,,,
+Synthesizers. com,Synthesizers. com Rack Mount Systems,False,,,,,,,
+Synthesizers. com,Synthesizers. com Studio Systems,False,,,,,,,
+Technics,Technics SX-WSA1,False,,,,,,,
+Technosaurus,Technosaurus Selector,True,http://dbpedia.org/resource/Selector,http://en.wikipedia.org/wiki/Selector,,,Synthesizer,,
+Teisco,Teisco SX-240,False,,,,,,,
+Teisco,Teisco SX-400,False,,,,,,,
+Teisco,Teisco Synthesizer 110F,False,,,,,,,
+Twisted Electrons,Twisted Electrons hapiNES L,False,,,,,,,
+Twisted Electrons,Twisted Electrons TherapKid,False,,,,,,,
+Twisted Electrons,Twisted Electrons TherapSid MKII,False,,,,,,,
+VAZ Synths,VAZ Synths VAZ Modular,False,,,,,,,
+Vermona,Vermona Action Filter (AF-1),False,,,,,,,
+Vermona,Vermona DRM-1 mkII,False,,,,,,,
+Vermona,Vermona Dual Analog Filter (DAF-1),False,,,,,,,
+Vermona,Vermona Mephisto,True,http://dbpedia.org/resource/Mephisto,http://en.wikipedia.org/wiki/Mephisto,,,Synthesizer,,
+Vermona,Vermona Perfourmer,False,,,,,,,
+Waldorf,Waldorf Blofeld,True,http://dbpedia.org/resource/Waldorf_Blofeld,http://en.wikipedia.org/wiki/Waldorf_Blofeld,2007,Analog,Synthesizer,Analog modeling synthesizer,up to 25-voices
+Waldorf,Waldorf KB37,False,,,,,,,
+Waldorf,Waldorf Micro Q,False,,,,,,,
+Waldorf,Waldorf Microwave,True,http://dbpedia.org/resource/Microwave,http://en.wikipedia.org/wiki/Microwave,,,Synthesizer,,
+Waldorf,Waldorf Microwave II,False,,,,,,,
+Waldorf,Waldorf Microwave XT,False,,,,,,,
+Waldorf,Waldorf Microwave XTk,False,,,,,,,
+Waldorf,Waldorf NW1 Wavetable Module,False,,,,,,,
+Waldorf,Waldorf PPG Wave 2.V,False,,,,,,,
+Waldorf,Waldorf Pulse,True,http://dbpedia.org/resource/Pulse,http://en.wikipedia.org/wiki/Pulse,,,Synthesizer,,
+Waldorf,Waldorf Q,True,http://dbpedia.org/resource/Q,http://en.wikipedia.org/wiki/Q,,,Synthesizer,,
+Waldorf,Waldorf Quantum,True,http://dbpedia.org/resource/Quantum,http://en.wikipedia.org/wiki/Quantum,,,Synthesizer,,
+Waldorf,Waldorf STVC,False,,,,,,,
+Waldorf,Waldorf Wave,True,http://dbpedia.org/resource/Wave,http://en.wikipedia.org/wiki/Wave,,,Synthesizer,,
+Waldorf,Waldorf X-Pole,False,,,,,,,
+Way Out Ware,Way Out Ware TimewARP 2600,False,,,,,,,
+Wine Country Sequential,Wine Country Sequential Pro One,False,,,,,,,
+Yamaha,Yamaha A3000,True,http://dbpedia.org/resource/A3000,http://en.wikipedia.org/wiki/A3000,,,Synthesizer,,
+Yamaha,Yamaha AN1x,True,http://dbpedia.org/resource/Yamaha_AN1x,http://en.wikipedia.org/wiki/Yamaha_AN1x,1997,Digital,Synthesizer,Analog modeling synthesizer,10
+Yamaha,Yamaha AN200,False,,,,,,,
+Yamaha,Yamaha CS-40m,False,,,,,,,
+Yamaha,Yamaha CS-50,True,http://dbpedia.org/resource/Sea-based_X-band_Radar,,,,Synthesizer,,
+Yamaha,Yamaha CS-60,True,http://dbpedia.org/resource/List_of_Yamaha_Corporation_products,http://en.wikipedia.org/wiki/List_of_Yamaha_Corporation_products,,Digital,Synthesizer,FM synthesis,
+Yamaha,Yamaha CS-70m,False,,,,,,,
+Yamaha,Yamaha CS-80,True,http://dbpedia.org/resource/Yamaha_CS-80,http://en.wikipedia.org/wiki/Yamaha_CS-80,1977,Analog,Synthesizer,Subtractive synthesis,8
+Yamaha,Yamaha CS1x,True,http://dbpedia.org/resource/Yamaha_CS1x,http://en.wikipedia.org/wiki/Yamaha_CS1x,1996,Digital,Synthesizer,Table-lookup synthesis,32
+Yamaha,Yamaha CS2x,True,http://dbpedia.org/resource/Yamaha_CS2x,http://en.wikipedia.org/wiki/Yamaha_CS2x,1999,Digital,Synthesizer,Sample-based synthesis,64
+Yamaha,Yamaha CS6x,False,,,,,,,
+Yamaha,Yamaha DJX-IIb,False,,,,,,,
+Yamaha,Yamaha DX1,True,http://dbpedia.org/resource/Yamaha_DX1,http://en.wikipedia.org/wiki/Yamaha_DX1,1983,Digital,Synthesizer,Digital synthesizer,16
+Yamaha,Yamaha DX100,True,http://dbpedia.org/resource/Yamaha_DX100,http://en.wikipedia.org/wiki/Yamaha_DX100,,,Synthesizer,,
+Yamaha,Yamaha DX11,True,http://dbpedia.org/resource/Yamaha_DX7,http://en.wikipedia.org/wiki/Yamaha_DX7,1983,Digital,Synthesizer,Additive synthesis,16
+Yamaha,Yamaha DX200,True,http://dbpedia.org/resource/Nokia_DX_200,http://en.wikipedia.org/wiki/Nokia_DX_200,,,Synthesizer,,
+Yamaha,Yamaha DX21,True,http://dbpedia.org/resource/Yamaha_DX21,http://en.wikipedia.org/wiki/Yamaha_DX21,1985,Digital,Synthesizer,Frequency modulation synthesis,8
+Yamaha,Yamaha DX27,True,http://dbpedia.org/resource/Yamaha_DX27,http://en.wikipedia.org/wiki/Yamaha_DX27,1985,Digital,Synthesizer,FM Synthesis,8
+Yamaha,Yamaha DX5,True,http://dbpedia.org/resource/Yamaha_DX1,http://en.wikipedia.org/wiki/Yamaha_DX1,1983,Digital,Synthesizer,Digital synthesizer,16
+Yamaha,Yamaha DX7,True,http://dbpedia.org/resource/Yamaha_DX7,http://en.wikipedia.org/wiki/Yamaha_DX7,1983,Digital,Synthesizer,Additive synthesis,16
+Yamaha,Yamaha DX7IID / DX7IIFD,False,,,,,,,
+Yamaha,Yamaha DX9,True,http://dbpedia.org/resource/Yamaha_DX9,http://en.wikipedia.org/wiki/Yamaha_DX9,1983,Digital,Synthesizer,Digital synthesizer,16
+Yamaha,Yamaha EX5,True,http://dbpedia.org/resource/Yamaha_EX5,http://en.wikipedia.org/wiki/Yamaha_EX5,1998,,Sampler,"AWM2, AN, VL, FDSP, Sampling",128
+Yamaha,Yamaha EX7,False,,,,,,,
+Yamaha,Yamaha FB-01,False,,,,,,,
+Yamaha,Yamaha FS1R,True,http://dbpedia.org/resource/Yamaha_FS1R,http://en.wikipedia.org/wiki/Yamaha_FS1R,1998,Digital,Synthesizer,Subtractive synthesis,32
+Yamaha,Yamaha GS-1,True,http://dbpedia.org/resource/Southern_Pacific_class_GS-1,,,,Synthesizer,,
+Yamaha,Yamaha GX-1,True,http://dbpedia.org/resource/Yamaha_GX-1,http://en.wikipedia.org/wiki/Yamaha_GX-1,1973,Analog,Synthesizer,Subtractive synthesis,18
+Yamaha,Yamaha Motif,True,http://dbpedia.org/resource/Yamaha_Motif,http://en.wikipedia.org/wiki/Yamaha_Motif,,Digital,Synthesizer,Subtractive synthesis,
+Yamaha,Yamaha MX49/61/88,False,,,,,,,
+Yamaha,Yamaha PortaSound PSS-470,False,,,,,,,
+Yamaha,Yamaha Portasound PSS-480,False,,,,,,,
+Yamaha,Yamaha QS300,False,,,,,,,
+Yamaha,Yamaha QY700 Sequencer,False,,,,,,,
+Yamaha,Yamaha RM1x,True,http://dbpedia.org/resource/Yamaha_RM1x,http://en.wikipedia.org/wiki/Yamaha_RM1x,1999,Digital,Synthesizer,Sample-based synthesis,
+Yamaha,Yamaha RS7000,False,,,,,,,
+Yamaha,Yamaha RX5,True,http://dbpedia.org/resource/RX5,http://en.wikipedia.org/wiki/RX5,,,Synthesizer,,
+Yamaha,Yamaha RX8,True,http://dbpedia.org/resource/RX8,http://en.wikipedia.org/wiki/RX8,,,Synthesizer,,
+Yamaha,Yamaha RY30,False,,,,,,,
+Yamaha,Yamaha S30,True,http://dbpedia.org/resource/S30,http://en.wikipedia.org/wiki/S30,,,Synthesizer,,
+Yamaha,Yamaha SK20,False,,,,,,,
+Yamaha,Yamaha SS30,False,,,,,,,
+Yamaha,Yamaha SU10,False,,,,,,,
+Yamaha,Yamaha SU200,False,,,,,,,
+Yamaha,Yamaha SU700,False,,,,,,,
+Yamaha,Yamaha SY-55,False,,,,,,,
+Yamaha,Yamaha SY22,True,http://dbpedia.org/resource/Yamaha_SY22,http://en.wikipedia.org/wiki/Yamaha_SY22,1990,Digital,Synthesizer,2,16
+Yamaha,Yamaha SY35,False,,,,,,,
+Yamaha,Yamaha SY77,True,http://dbpedia.org/resource/Yamaha_SY77,http://en.wikipedia.org/wiki/Yamaha_SY77,1989-12-01,Digital,Synthesizer,Digital synthesizer,32
+Yamaha,Yamaha SY85,True,http://dbpedia.org/resource/Yamaha_SY85,http://en.wikipedia.org/wiki/Yamaha_SY85,1992,Digital,Synthesizer,Sample-based synthesis,30
+Yamaha,Yamaha SY99,True,http://dbpedia.org/resource/Yamaha_SY99,http://en.wikipedia.org/wiki/Yamaha_SY99,1991,Digital,Synthesizer,Frequency modulation synthesis,32
+Yamaha,Yamaha TG33,False,,,,,,,
+Yamaha,Yamaha TG500,False,,,,,,,
+Yamaha,Yamaha TG55 Tone Generator,False,,,,,,,
+Yamaha,Yamaha TQ5,False,,,,,,,
+Yamaha,Yamaha TX16W,True,http://dbpedia.org/resource/Yamaha_TX16W,http://en.wikipedia.org/wiki/Yamaha_TX16W,1988,,Sampler,Digital synthesizer,16
+Yamaha,Yamaha TX7,True,http://dbpedia.org/resource/Yamaha_DX7,http://en.wikipedia.org/wiki/Yamaha_DX7,1983,Digital,Synthesizer,Additive synthesis,16
+Yamaha,Yamaha TX802,False,,,,,,,
+Yamaha,Yamaha TX816,False,,,,,,,
+Yamaha,Yamaha TX81Z,True,http://dbpedia.org/resource/Yamaha_TX81Z,http://en.wikipedia.org/wiki/Yamaha_TX81Z,1987,Digital,Synthesizer,Digital synthesizer,8
+Yamaha,Yamaha V50,True,http://dbpedia.org/resource/Yamaha_V50,http://en.wikipedia.org/wiki/Yamaha_V50,,Digital,Synthesizer,FM synthesis,
+Yamaha,Yamaha VSS-200,True,http://dbpedia.org/resource/Yamaha_Portasound,http://en.wikipedia.org/wiki/List_of_Yamaha_Portasound_keyboards,,,Synthesizer,,
+Yamaha,Yamaha W7,True,http://dbpedia.org/resource/W7,http://en.wikipedia.org/wiki/W7,,,Synthesizer,,
+Yamaha,Yamaha YS200,True,http://dbpedia.org/resource/Yamaha_YS200,http://en.wikipedia.org/wiki/Yamaha_YS200,1988,Digital,Synthesizer,Frequency modulation synthesis,8
+360 Systems,360 Systems MIDI Bass,False,,,,,,,
+Akai,Akai MFC42,False,,,,,,,
+Alesis,Alesis airSynth,False,,,,,,,
+Alesis,Alesis MMT-8,False,,,,,,,
+Aries,Aries 300 Music System,False,,,,,,,
+ARP,ARP 2500,True,http://dbpedia.org/resource/ARP_2500,http://en.wikipedia.org/wiki/ARP_2500,1970,Analog,Synthesizer,Analog signal,http://dbpedia.org/resource/Duophonic
+ARP,ARP 2600,True,http://dbpedia.org/resource/ARP_2600,http://en.wikipedia.org/wiki/ARP_2600,1971,Analog,Synthesizer,Subtractive synthesis,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+ARP,ARP Avatar,True,http://dbpedia.org/resource/ARP_Avatar,http://en.wikipedia.org/wiki/ARP_Avatar,1977,Analog,Synthesizer,Analog signal,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+ARP,ARP Axxe,True,http://dbpedia.org/resource/ARP_Instruments,http://en.wikipedia.org/wiki/ARP_Instruments,,,Synthesizer,,
+ARP,ARP Explorer I,True,http://dbpedia.org/resource/Explorer_1,http://en.wikipedia.org/wiki/Explorer_1,,,Synthesizer,,
+ARP,ARP Little Brother,True,http://dbpedia.org/resource/ARP_Little_Brother,http://en.wikipedia.org/wiki/ARP_Little_Brother,1975,Analog,Synthesizer,Subtractive synthesis,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+ARP,ARP Pro-Soloist,True,http://dbpedia.org/resource/ARP_Pro_Soloist,http://en.wikipedia.org/wiki/ARP_Pro_Soloist,1972,Analog,Synthesizer,Subtractive synthesis,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+ARP,ARP Pro/DGX,True,http://dbpedia.org/resource/ARP_Pro/DGX,http://en.wikipedia.org/wiki/ARP_Pro/DGX,1977,Analog,Synthesizer,Analog signal,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+ARP,ARP Sequencer,True,http://dbpedia.org/resource/ARP_Instruments,http://en.wikipedia.org/wiki/ARP_Instruments,,,Sequencer,,
+ARP,ARP Solus,True,http://dbpedia.org/resource/ARP_Instruments,http://en.wikipedia.org/wiki/ARP_Instruments,,,Synthesizer,,
+Arturia,Arturia MatrixBrute,True,http://dbpedia.org/resource/Arturia_MiniBrute,http://en.wikipedia.org/wiki/Arturia_MiniBrute,2012,Analog,Synthesizer,Subtractive synthesis,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+Arturia,Arturia MicroBrute,True,http://dbpedia.org/resource/Arturia_MiniBrute,http://en.wikipedia.org/wiki/Arturia_MiniBrute,2012,Analog,Synthesizer,Subtractive synthesis,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+Arturia,Arturia MiniBrute,True,http://dbpedia.org/resource/Arturia_MiniBrute,http://en.wikipedia.org/wiki/Arturia_MiniBrute,2012,Analog,Synthesizer,Subtractive synthesis,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+Bomb Factory Studios,Bomb Factory Studios Moogerfoogers,False,,,,,,,
+BOSS,BOSS HC-2 Hand Clapper,False,,,,,,,
+BOSS,BOSS PC-2 Percussion Synthesizer,False,,,,,,,
+BOSS,BOSS SYB-3 Bass Synthesizer,False,,,,,,,
+BOSS,BOSS SYB-5 Bass Synthesizer,False,,,,,,,
+BOSS,BOSS VT-1 Voice Transformer,False,,,,,,,
+Buchla,Buchla 100 Series,False,,,,,,,
+Buchla,Buchla 200 Series,False,,,,,,,
+Casio,Casio VL-Tone VL-1,False,,,,,,,
+Chamberlin,Chamberlin Rhythmate,True,http://dbpedia.org/resource/Chamberlin,http://en.wikipedia.org/wiki/Chamberlin,,,DrumMachine,,
+Chimera Synthesis,Chimera Synthesis bC16,False,,,,,,,
+Control Synthesis,Control Synthesis Deep Bass Nine,False,,,,,,,
+Crumar,Crumar Spirit,True,http://dbpedia.org/resource/Spirit,http://en.wikipedia.org/wiki/Spirit,,,Synthesizer,,
+Cyclone Analogic,Cyclone Analogic Cyclone Analogic BASS BOTT TT-303 V2,False,,,,,,,
+Dave Smith Instruments,Dave Smith Instruments Evolver,True,http://dbpedia.org/resource/Evolver,http://en.wikipedia.org/wiki/Evolver,,,Synthesizer,,
+Dave Smith Instruments,Dave Smith Instruments Mono Evolver,False,,,,,,,
+Dave Smith Instruments,Dave Smith Instruments Mopho,False,,,,,,,
+Dave Smith Instruments,Dave Smith Instruments Pro 2,True,http://dbpedia.org/resource/Acasă,http://en.wikipedia.org/wiki/Acasă,,,Synthesizer,,
+Davoli,Davoli Davolisint,False,,,,,,,
+Doepfer,Doepfer Dark Energy,True,http://dbpedia.org/resource/Dark_energy,http://en.wikipedia.org/wiki/Dark_energy,,,Synthesizer,,
+Doepfer,Doepfer Dark Energy III,False,,,,,,,
+Doepfer,Doepfer Drehbank,False,,,,,,,
+Doepfer,Doepfer MS-404,True,http://dbpedia.org/resource/Doepfer_MS-404,http://en.wikipedia.org/wiki/Doepfer_MS-404,,Analog,Synthesizer,,
+Dubreq,Dubreq Dubreq Stylophone S2,False,,,,,,,
+E-mu,E-mu E-Drum,False,,,,,,,
+E-mu,E-mu Modular Systems,False,,,,,,,
+EKO,EKO EKOsynth P15,False,,,,,,,
+Electrix Pro,Electrix Pro Filter Factory,False,,,,,,,
+Electrix Pro,Electrix Pro Warp Factory,False,,,,,,,
+Electro Harmonix,Electro Harmonix Mini-Synthesizer,False,,,,,,,
+Electronic Dream Plant (EDP),Electronic Dream Plant (EDP) Gnat,True,http://dbpedia.org/resource/Gnat,http://en.wikipedia.org/wiki/Gnat,,,Synthesizer,,
+Electronic Dream Plant (EDP),Electronic Dream Plant (EDP) Spider,True,http://dbpedia.org/resource/Spider,http://en.wikipedia.org/wiki/Spider,,,Synthesizer,,
+Electronic Dream Plant (EDP),Electronic Dream Plant (EDP) Wasp,True,http://dbpedia.org/resource/Wasp,http://en.wikipedia.org/wiki/Wasp,,,Synthesizer,,
+Electronic Music Studios (EMS),Electronic Music Studios (EMS) Synthi A,True,http://dbpedia.org/resource/EMS_VCS_3,http://en.wikipedia.org/wiki/EMS_VCS_3,,Analog,Synthesizer,,
+Electronic Music Studios (EMS),Electronic Music Studios (EMS) Synthi Sequencer 256,False,,,,,,,
+Electronic Music Studios (EMS),Electronic Music Studios (EMS) VCS3,True,http://dbpedia.org/resource/EMS_VCS_3,http://en.wikipedia.org/wiki/EMS_VCS_3,,Analog,Synthesizer,,
+Electronic Music Studios (EMS),Electronic Music Studios (EMS) Vocoder 2000,False,,,,,,,
+Elka,Elka Soloist 505,False,,,,,,,
+EML,EML ElectroComp 200,False,,,,,,,
+EML,EML ElectroComp 400/401,False,,,,,,,
+EML,EML ElectroComp 500,False,,,,,,,
+EML,EML SynKey,False,,,,,,,
+Encore Electronics,Encore Electronics Knobby,False,,,,,,,
+Encore Electronics,Encore Electronics SlideMate,False,,,,,,,
+FBT Electronica,FBT Electronica Synther-2000,False,,,,,,,
+Frostwave,Frostwave Resonator,True,http://dbpedia.org/resource/Resonator,http://en.wikipedia.org/wiki/Resonator,,,Synthesizer,,
+Future Retro,Future Retro 777,True,http://dbpedia.org/resource/Future_Retro_777,http://en.wikipedia.org/wiki/Future_Retro_777,,Analog,Synthesizer,,
+Future Retro,Future Retro Mobius,True,http://dbpedia.org/resource/Moebius,http://en.wikipedia.org/wiki/Moebius,,,Synthesizer,,
+Future Retro,Future Retro Revolution,True,http://dbpedia.org/resource/Roland_TB-303,http://en.wikipedia.org/wiki/Roland_TB-303,1981,Analog,Synthesizer,Subtractive synthesis,monophonic
+Future Retro,Future Retro XS,True,http://dbpedia.org/resource/XS,http://en.wikipedia.org/wiki/XS,,,Synthesizer,,
+Hammond,Hammond 102200,False,,,,,,,
+Jen Electronics,Jen Electronics SX-1000 Synthetone,False,,,,,,,
+Jen Electronics,Jen Electronics SX-2000 Synthetone,False,,,,,,,
+JoMoX,JoMoX M.Brane 11,False,,,,,,,
+JoMoX,JoMoX MBase 01,False,,,,,,,
+JoMoX,JoMoX MBase 11,False,,,,,,,
+KeyFax,KeyFax Phat-Boy,False,,,,,,,
+Korg,Korg 770,True,http://dbpedia.org/resource/770,http://en.wikipedia.org/wiki/770,,,Synthesizer,,
+Korg,Korg M500 Micro-Preset,False,,,,,,,
+Korg,Korg microKONTROL,False,,,,,,,
+Korg,Korg MiniKorg-700,False,,,,,,,
+Korg,Korg Monologue,True,http://dbpedia.org/resource/Korg_Monologue,http://en.wikipedia.org/wiki/Korg_Monologue,2017,Analog,Synthesizer,Analog synthesizer,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+Korg,Korg Monotribe,False,,,,,,,
+Korg,Korg Monotron,True,http://dbpedia.org/resource/List_of_Korg_products,http://en.wikipedia.org/wiki/List_of_Korg_products,,Digital,Synthesizer,FM synthesis,
+Korg,Korg MS-10,True,http://dbpedia.org/resource/Korg_MS-10,http://en.wikipedia.org/wiki/Korg_MS-10,1978,Analog,Synthesizer,Subtractive synthesis,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+Korg,Korg MS-20,True,http://dbpedia.org/resource/Korg_MS-20,http://en.wikipedia.org/wiki/Korg_MS-20,1978,Analog,Synthesizer,Subtractive synthesis,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+Korg,Korg MS-20 mini,True,http://dbpedia.org/resource/Korg_MS-20,http://en.wikipedia.org/wiki/Korg_MS-20,1978,Analog,Synthesizer,Subtractive synthesis,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+Korg,Korg MS-50,False,,,,,,,
+Korg,Korg SB-100 Synthe-Bass,False,,,,,,,
+Korg,Korg Sigma,True,http://dbpedia.org/resource/Korg_Sigma,http://en.wikipedia.org/wiki/Korg_Sigma,1979,Analog,Synthesizer,analog subtractive,http://dbpedia.org/resource/Monaural_sound
+Korg,Korg SQ-10 Analog Sequencer,False,,,,,,,
+Korg,Korg Volca Bass,True,http://dbpedia.org/resource/Volca_Bass,http://en.wikipedia.org/wiki/Volca_Bass,,Analog,Synthesizer,analog subtractive,http://dbpedia.org/resource/Monaural_sound
+Korg,Korg Volca Nubass,False,,,,,,,
+Korg,Korg X-911,False,,,,,,,
+Ladyada,Ladyada x0xb0x,False,,,,,,,
+Logan / Hohner,Logan / Hohner String Melody II,False,,,,,,,
+MacBeth Studio Systems,MacBeth Studio Systems M3X,True,http://dbpedia.org/resource/Kolb_Mark_III,http://en.wikipedia.org/wiki/Kolb_Mark_III,,,Synthesizer,,
+MacBeth Studio Systems,MacBeth Studio Systems M5,True,http://dbpedia.org/resource/M5,http://en.wikipedia.org/wiki/M5,,,Synthesizer,,
+Malekko Heavy Industry Corporation,Malekko Heavy Industry Corporation Malekko Heavy Industry Corporation Manther,False,,,,,,,
+MAM,MAM FreeBass 383,False,,,,,,,
+MAM,MAM MB 33,True,http://dbpedia.org/resource/Roland_TB-303,http://en.wikipedia.org/wiki/Roland_TB-303,1981,Analog,Synthesizer,Subtractive synthesis,monophonic
+MAM,MAM VF-11,True,http://dbpedia.org/resource/VF-11,http://en.wikipedia.org/wiki/VF-11,--02-01,,Synthesizer,,
+MAM,MAM WARP 9,False,,,,,,,
+Metasonix,Metasonix TS-21 HellFire,False,,,,,,,
+Metasonix,Metasonix TS-22 Pentode FilterBank,False,,,,,,,
+MidiBox,MidiBox SammichSID,False,,,,,,,
+Moog,Moog CP-251 Control Processor,False,,,,,,,
+Moog,Moog Etherwave Theremin,False,,,,,,,
+Moog,Moog Liberation,True,http://dbpedia.org/resource/Moog_Liberation,http://en.wikipedia.org/wiki/Moog_Liberation,1980,Analog,Synthesizer,Subtractive synthesis,http://dbpedia.org/resource/Paraphony
+Moog,Moog Little Phatty,True,http://dbpedia.org/resource/Moog_Little_Phatty,http://en.wikipedia.org/wiki/Moog_Little_Phatty,2006,Analog,Synthesizer,Subtractive synthesis,monophonic
+Moog,Moog MF-101 Lowpass Filter,False,,,,,,,
+Moog,Moog MF-102 Ring Modulator,False,,,,,,,
+Moog,Moog MF-103 12-Stage Phaser,False,,,,,,,
+Moog,Moog MF-104 Analog Delay,False,,,,,,,
+Moog,Moog MF-105M MIDI MuRF,False,,,,,,,
+Moog,Moog Micromoog,True,http://dbpedia.org/resource/Micromoog,http://en.wikipedia.org/wiki/Micromoog,1975,Analog,Synthesizer,Subtractive synthesis,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+Moog,Moog Minimoog,True,http://dbpedia.org/resource/Minimoog,http://en.wikipedia.org/wiki/Minimoog,1970,Analog,Synthesizer,Subtractive synthesis,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+Moog,Moog Minimoog Voyager,True,http://dbpedia.org/resource/Minimoog_Voyager,http://en.wikipedia.org/wiki/Minimoog_Voyager,19972002,Analog,Synthesizer,Subtractive synthesis,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+Moog,Moog Minitmoog,False,,,,,,,
+Moog,Moog Multimoog,True,http://dbpedia.org/resource/Multimoog,http://en.wikipedia.org/wiki/Multimoog,1978,Analog,Synthesizer,Subtractive synthesis,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+Moog,Moog Prodigy,True,http://dbpedia.org/resource/Moog_Prodigy,http://en.wikipedia.org/wiki/Moog_Prodigy,1979,Analog,Synthesizer,Subtractive synthesis,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+Moog,Moog Rogue,True,http://dbpedia.org/resource/Moog_Rogue,http://en.wikipedia.org/wiki/Moog_Rogue,1981,Analog,Synthesizer,Subtractive synthesis,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+Moog,Moog Satellite,True,http://dbpedia.org/resource/Moog_Satellite,http://en.wikipedia.org/wiki/Moog_Satellite,1973,Analog,Synthesizer,Subtractive synthesis,http://dbpedia.org/resource/Monaural_sound
+Moog,Moog Sirin,True,http://dbpedia.org/resource/Sirin,http://en.wikipedia.org/wiki/Sirin,,,Synthesizer,,
+Moog,Moog Slim Phatty,True,http://dbpedia.org/resource/Slim_Phatty,http://en.wikipedia.org/wiki/Slim_Phatty,2011,Analog,Synthesizer,Subtractive synthesis,Monophonic
+Moog,Moog Source,True,http://dbpedia.org/resource/Moog_Source,http://en.wikipedia.org/wiki/Moog_Source,1981,Analog,Synthesizer,Subtractive synthesis,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+Moog,Moog Sub Phatty,False,,,,,,,
+Moog,Moog Synthesizer 1c/2c/3c,False,,,,,,,
+Moog,Moog Taurus I,True,http://dbpedia.org/resource/QE2_(album),http://en.wikipedia.org/wiki/QE2_(album),,,Synthesizer,,
+Moog,Moog Taurus II,True,http://dbpedia.org/resource/Moog_Taurus,http://en.wikipedia.org/wiki/Moog_Taurus,1981,Analog,Synthesizer,Subtractive synthesis,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+Moog,Moog Vocoder,True,http://dbpedia.org/resource/Vocoder,http://en.wikipedia.org/wiki/Vocoder,,,Vocoder,,
+Multivox,Multivox Firstman SQ-01,False,,,,,,,
+Novation,Novation Bass Station,True,http://dbpedia.org/resource/Novation_Digital_Music_Systems,http://en.wikipedia.org/wiki/Novation_Digital_Music_Systems,,Analog,Synthesizer,,
+Novation,Novation Bass Station II,False,,,,,,,
+Novation,Novation Bass Station Rack,False,,,,,,,
+Novation,Novation Circuit Mono Station,False,,,,,,,
+Novation,Novation Super Bass Station,False,,,,,,,
+Nozoid,Nozoid Nozoid MMO-3,False,,,,,,,
+Oberheim,Oberheim Drummer Perf/X Interactive Drum Pattern Sequencer,False,,,,,,,
+Oberheim,Oberheim DSX,True,http://dbpedia.org/resource/Oberheim_DSX,http://en.wikipedia.org/wiki/Oberheim_DSX,1981,Digital,Sequencer,Digital,16
+Oberheim,Oberheim Echoplex Digital Pro,True,http://dbpedia.org/resource/Echoplex_Digital_Pro,,,,Synthesizer,,
+Oberheim,Oberheim Mini Sequencer,False,,,,,,,
+Oberheim,Oberheim OB-1,True,http://dbpedia.org/resource/Oberheim_OB-1,http://en.wikipedia.org/wiki/Oberheim_OB-1,1977,Analog,Synthesizer,Subtractive synthesis,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+Oberheim,Oberheim OB-Xk,False,,,,,,,
+Oberheim,Oberheim Prommer,True,http://dbpedia.org/resource/Oberheim_Prommer,http://en.wikipedia.org/wiki/Oberheim_Prommer,1983,Digital,Synthesizer,Digital,16
+Oberheim,Oberheim SEM,True,http://dbpedia.org/resource/Oberheim_Polyphonic_Synthesizer,http://en.wikipedia.org/wiki/Oberheim_Polyphonic_Synthesizer,1975,Analog,Synthesizer,Subtractive synthesis,4
+Oberheim,Oberheim Strummer,True,http://dbpedia.org/resource/Joe_Strummer,http://en.wikipedia.org/wiki/Joe_Strummer,,,Synthesizer,,
+Octave,Octave The Kitten,False,,,,,,,
+Oxford Synthesiser Company,Oxford Synthesiser Company OSCar,False,,,,,,,
+PAiA,PAiA Fatman,True,http://dbpedia.org/resource/Fat_Man_(disambiguation),http://en.wikipedia.org/wiki/Fat_Man_(disambiguation),,,Synthesizer,,
+PAiA,PAiA Proteus 1,False,,,,,,,
+Pittsburgh Modular Synthesizers,Pittsburgh Modular Synthesizers Lifeforms Systems 301,False,,,,,,,
+Plankton Electronics,Plankton Electronics The Bumblebee,False,,,,,,,
+Powertran,Powertran Transcendent 2000,False,,,,,,,
+PPG,PPG 1002,True,http://dbpedia.org/resource/1002,http://en.wikipedia.org/wiki/1002,,,Synthesizer,,
+PPG,PPG KX5,False,,,,,,,
+Radikal Technologies,Radikal Technologies Delta CEP A,False,,,,,,,
+Radikal Technologies,Radikal Technologies Spectralis,False,,,,,,,
+Realistic,Realistic Concertmate MG-1,True,http://dbpedia.org/resource/Moog_Concertmate_MG-1,http://en.wikipedia.org/wiki/Moog_Concertmate_MG-1,1981,Analog,Synthesizer,Subtractive synthesis,Organ section
+Roland,Roland CMU-810,False,,,,,,,
+Roland,Roland GR-500,True,http://dbpedia.org/resource/Roland_GR-500,http://en.wikipedia.org/wiki/Roland_GR-500,,,Synthesizer,,
+Roland,Roland JD-XA,True,http://dbpedia.org/resource/Roland_JD-XA,http://en.wikipedia.org/wiki/Roland_JD-XA,2015,Hybrid,Synthesizer,"analog subtractive, digital additive, 450 PCM waveforms",4
+Roland,Roland MC-202,True,http://dbpedia.org/resource/Roland_MC-202,http://en.wikipedia.org/wiki/Roland_MC-202,1983,Analog,Synthesizer,Subtractive synthesis,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+Roland,Roland ProMars MRS-2,False,,,,,,,
+Roland,Roland RE-201 Space Echo,False,,,,,,,
+Roland,Roland Saturn 09,False,,,,,,,
+Roland,Roland SH-09,True,http://dbpedia.org/resource/Roland_Corporation,http://en.wikipedia.org/wiki/Roland_Corporation,,,Synthesizer,,
+Roland,Roland SH-1,True,http://dbpedia.org/resource/SH1,http://en.wikipedia.org/wiki/SH1,,,Synthesizer,,
+Roland,Roland SH-1000,True,http://dbpedia.org/resource/Roland_SH-1000,http://en.wikipedia.org/wiki/Roland_SH-1000,1973,Analog,Synthesizer,Subtractive synthesis,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+Roland,Roland SH-101,True,http://dbpedia.org/resource/Roland_SH-101,http://en.wikipedia.org/wiki/Roland_SH-101,November 1982–1986,Analog,Synthesizer,Subtractive synthesis,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+Roland,Roland SH-2,True,http://dbpedia.org/resource/Kaman_SH-2_Seasprite,http://en.wikipedia.org/wiki/Kaman_SH-2_Seasprite,,,Synthesizer,,
+Roland,Roland SH-2000,False,,,,,,,
+Roland,Roland SH-3a,True,http://dbpedia.org/resource/Roland_SH-3A,http://en.wikipedia.org/wiki/Roland_SH-3A,1975,Analog,Synthesizer,Subtractive synthesis,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+Roland,Roland SH-5,True,http://dbpedia.org/resource/SH5,http://en.wikipedia.org/wiki/SH5,,,Synthesizer,,
+Roland,Roland System 100,True,http://dbpedia.org/resource/Roland_System_100,http://en.wikipedia.org/wiki/Roland_System_100,,Analog,Synthesizer,,
+Roland,Roland System 100m,True,http://dbpedia.org/resource/Roland_System-100M,http://en.wikipedia.org/wiki/Roland_System-100M,1979,Analog,Synthesizer,Subtractive synthesis,Depends on chosen modules.  Usually monophonic or 4-voice polyphonic.
+Roland,Roland System 700,True,http://dbpedia.org/resource/Roland_System_700,http://en.wikipedia.org/wiki/Roland_System_700,,Analog,Synthesizer,,
+Roland,Roland TB-303,True,http://dbpedia.org/resource/Roland_TB-303,http://en.wikipedia.org/wiki/Roland_TB-303,1981,Analog,Synthesizer,Subtractive synthesis,monophonic
+RSF,RSF Kobol Expander,False,,,,,,,
+RSF,RSF Modular Model 11,False,,,,,,,
+Sequential Circuits,Sequential Circuits Pro One,False,,,,,,,
+Sequential Circuits,Sequential Circuits Prophet Remote,True,http://dbpedia.org/resource/Prophet-5,http://en.wikipedia.org/wiki/Prophet-5,19771981,Analog,Synthesizer,Subtractive synthesis,10
+Serge,Serge Modular,True,http://dbpedia.org/resource/Serge_synthesizer,http://en.wikipedia.org/wiki/Serge_synthesizer,,Analog,Synthesizer,,
+Siel,Siel Mono,True,http://dbpedia.org/resource/Mono,http://en.wikipedia.org/wiki/Mono,,,Synthesizer,,
+Sonicsmith,Sonicsmith Modular A1,False,,,,,,,
+Soulsby,Soulsby Atmegatron,False,,,,,,,
+Spectral Audio,Spectral Audio Cyclus 3,False,,,,,,,
+Spectral Audio,Spectral Audio Neptune,True,http://dbpedia.org/resource/Neptune,http://en.wikipedia.org/wiki/Neptune,,,Synthesizer,,
+Spectral Audio,Spectral Audio ProTone,False,,,,,,,
+Spectral Audio,Spectral Audio Syntrack,False,,,,,,,
+Steiner-Parker,Steiner-Parker Minicon,True,http://dbpedia.org/resource/Minicon,http://en.wikipedia.org/wiki/Minicon,,,Synthesizer,,
+Steiner-Parker,Steiner-Parker Synthacon,True,http://dbpedia.org/resource/Steiner-Parker_Synthacon,http://en.wikipedia.org/wiki/Steiner-Parker_Synthacon,1975,Analog,Synthesizer,Subtractive synthesis,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+Steiner-Parker,Steiner-Parker SynthaSystem,False,,,,,,,
+Studio Electronics,Studio Electronics ATC-1,True,http://dbpedia.org/resource/Automatic_train_control,http://en.wikipedia.org/wiki/Automatic_train_control,,,Synthesizer,,
+Studio Electronics,Studio Electronics ATCX,False,,,,,,,
+Studio Electronics,Studio Electronics Boomstar MK2,False,,,,,,,
+Studio Electronics,Studio Electronics MidiMini V30,False,,,,,,,
+Studio Electronics,Studio Electronics Midimoog,False,,,,,,,
+Studio Electronics,Studio Electronics SE-1,False,,,,,,,
+Studio Electronics,Studio Electronics Tonestar 8106,False,,,,,,,
+Syntecno,Syntecno TeeBee,True,http://dbpedia.org/resource/Teebee,http://en.wikipedia.org/wiki/Teebee,,,Synthesizer,,
+Synton,Synton Fenix,True,http://dbpedia.org/resource/Synton_Fenix,http://en.wikipedia.org/wiki/Synton_Fenix,,Analog,Synthesizer,,
+Synton,Synton Syntovox 222 Vocoder,False,,,,,,,
+Synton,Synton Syrinx,True,http://dbpedia.org/resource/Syrinx,http://en.wikipedia.org/wiki/Syrinx,,,Synthesizer,,
+TC|Works,TC|Works Mercury-1,False,,,,,,,
+Technics,Technics SY-1010,False,,,,,,,
+Technosaurus,Technosaurus Cyclodon,True,http://dbpedia.org/resource/Nothrotherium,http://en.wikipedia.org/wiki/Nothrotherium,,,Synthesizer,,
+Technosaurus,Technosaurus Microcon,True,http://dbpedia.org/resource/Microcon,http://en.wikipedia.org/wiki/Microcon,,,Synthesizer,,
+Teenage Engineering,Teenage Engineering PO-14 Sub,False,,,,,,,
+Teisco,Teisco S100P,True,http://dbpedia.org/resource/S100P,http://en.wikipedia.org/wiki/S100P,,,Synthesizer,,
+Teisco,Teisco Synthesizer 110F,False,,,,,,,
+Teisco / Kawai,Teisco / Kawai Synthesizer 100F,False,,,,,,,
+Teisco / Kawai,Teisco / Kawai Synthesizer 100F,False,,,,,,,
+Triadex,Triadex Muse,True,http://dbpedia.org/resource/Triadex_Muse,http://en.wikipedia.org/wiki/Triadex_Muse,,,Synthesizer,,
+Vermona,Vermona M.A.R.S. Monophonic Analog Rack Synthesizer,False,,,,,,,
+Vermona,Vermona Synthesizer,True,http://dbpedia.org/resource/Synthesizer,http://en.wikipedia.org/wiki/Synthesizer,,Hybrid,Synthesizer,Subtractive synthesis,
+Waldorf,Waldorf D-Pole,False,,,,,,,
+Waldorf,Waldorf Kyra,True,http://dbpedia.org/resource/Kyra,http://en.wikipedia.org/wiki/Kyra,,,Synthesizer,,
+Waldorf,Waldorf MiniWorks 4-Pole,False,,,,,,,
+Waldorf,Waldorf Pulse 2,True,http://dbpedia.org/resource/Pulse_2,http://en.wikipedia.org/wiki/Pulse_2,,,Synthesizer,,
+Waldorf,Waldorf Rocket Synthesizer,False,,,,,,,
+Wave Idea,Wave Idea Bitstream Pro,False,,,,,,,
+Wersi,Wersi Bass Synthesizer,False,,,,,,,
+Wiard,Wiard Modular Systems,False,,,,,,,
+Will Systems,Will Systems MAB-303,False,,,,,,,
+Wurlitzer,Wurlitzer Orbit III,False,,,,,,,
+Yamaha,Yamaha CS-10,True,http://dbpedia.org/resource/List_of_Yamaha_Corporation_products,http://en.wikipedia.org/wiki/List_of_Yamaha_Corporation_products,,Digital,Synthesizer,FM synthesis,
+Yamaha,Yamaha CS-15,True,http://dbpedia.org/resource/Yamaha_CS-15,http://en.wikipedia.org/wiki/Yamaha_CS-15,1979,Analog,Synthesizer,Subtractive synthesis,http://dbpedia.org/resource/Polyphony_and_monophony_in_instruments
+Yamaha,Yamaha CS-15D,False,,,,,,,
+Yamaha,Yamaha CS-20m,False,,,,,,,
+Yamaha,Yamaha CS-30,True,http://dbpedia.org/resource/CS_30,http://en.wikipedia.org/wiki/CS_30,,,Synthesizer,,
+Yamaha,Yamaha CS-5,False,,,,,,,
+Yamaha,Yamaha CS01,False,,,,,,,
+Yamaha,Yamaha ED10,False,,,,,,,
+Yamaha,Yamaha SY-1,True,http://dbpedia.org/resource/Silkworm_(missile),http://en.wikipedia.org/wiki/Silkworm_(missile),,,Synthesizer,,
+Yamaha,Yamaha SY20,False,,,,,,,
+Yamaha,Yamaha VL-70m,False,,,,,,,
+GR International,GR International Bandmaster Powerhouse,False,,,,,,,
+Hammond,Hammond Auto-Vari 64 Drum Machine,False,,,,,,,
+Kenton Electronics,Kenton Electronics Control Freak,True,http://dbpedia.org/resource/Control_freak,http://en.wikipedia.org/wiki/Control_freak,,,Synthesizer,,
+Kenton Electronics,Kenton Electronics Control Freak Live,False,,,,,,,
+Kenton Electronics,Kenton Electronics Control Freak Studio Edition,False,,,,,,,
+Kenton Electronics,Kenton Electronics Kenton Electronics Pro-4,False,,,,,,,
+Kenton Electronics,Kenton Electronics Pro-2000,False,,,,,,,
+Kenton Electronics,Kenton Electronics Pro-DCB,False,,,,,,,
+Kenton Electronics,Kenton Electronics Pro-Kadi,False,,,,,,,
+Kenton Electronics,Kenton Electronics Pro-Solo,False,,,,,,,
+Kenton Electronics,Kenton Electronics Spin Doctor,True,http://dbpedia.org/resource/Spin_(propaganda),http://en.wikipedia.org/wiki/Spin_(propaganda),,,Synthesizer,,
+MFB,MFB MFB Synth Lite 2,False,,,,,,,
+Modor,Modor NF-1,True,http://dbpedia.org/resource/NF1,http://en.wikipedia.org/wiki/NF1,,,Synthesizer,,
+Roland,Roland Programmers,True,http://dbpedia.org/resource/Programmer,http://en.wikipedia.org/wiki/Programmer,,,Synthesizer,,
+Roland,Roland SP-404,True,http://dbpedia.org/resource/Roland_SP-404,http://en.wikipedia.org/wiki/Roland_SP-404,,,Sampler,,
+Therevox,Therevox ET-4.3,False,,,,,,,
+Waldorf,Waldorf Streichfett,False,,,,,,,
+Welson,Welson Syntex,True,http://dbpedia.org/resource/Syntex,http://en.wikipedia.org/wiki/Syntex,,,Synthesizer,,

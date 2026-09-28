@@ -1,0 +1,5 @@
+rdflib
+SPARQLWrapper
+owlrl
+requests
+beautifulsoup4
